@@ -1,3 +1,4 @@
+import { questions } from "@/app/data/cpsdQuestions";
 import { getServerSession } from "next-auth";
 import { getTopicsForExam } from "../lib/questions";
 import { getTopicMasteryForUser } from "../lib/progress";
@@ -5,6 +6,8 @@ import { prisma } from "../lib/prisma";
 import StudyPageClient from "./client";
 
 export default async function StudyPage() {
+  console.log(questions);
+
   const session = await getServerSession();
 
   let topicProgress = null;
