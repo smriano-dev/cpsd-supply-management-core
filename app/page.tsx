@@ -1,7 +1,16 @@
 import Link from "next/link";
 import AuthButton from "./components/AuthButton";
+import { getServerSession } from "next-auth";
+import { redirect } from "next/navigation";
 
-export default function Home() {
+export default async function Home() {
+  const session = await getServerSession();
+
+  // Redirect logged-in users to dashboard
+  if (session?.user?.email) {
+    redirect("/dashboard");
+  }
+
   return (
     <main className="min-h-screen bg-slate-950 text-slate-50 flex justify-center px-4 py-10">
       <div className="w-full max-w-6xl space-y-10">
