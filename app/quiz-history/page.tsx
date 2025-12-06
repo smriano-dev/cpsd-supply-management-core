@@ -1,6 +1,20 @@
+// app/quiz-history/page.tsx
+
 import { getServerSession } from "next-auth";
 import { redirect } from "next/navigation";
 import Link from "next/link";
+
+type Attempt = {
+  id: string;
+  examId: string;
+  topicId: string | null;
+  isMockExam: boolean;
+  score: number | null;
+  correctAnswers: number;
+  totalQuestions: number;
+  timeSpent: number | null;
+  createdAt: string; // ISO string
+};
 
 export default async function QuizHistoryPage() {
   const session = await getServerSession();
@@ -9,20 +23,11 @@ export default async function QuizHistoryPage() {
     redirect("/api/auth/signin");
   }
 
-  const user = await prisma.user.findUnique({
-    where: { email: session.user.email },
-    include: {
-      quizAttempts: {
-        orderBy: { createdAt: "desc" },
-      },
-    },
-  });
-
-  if (!user) {
-    redirect("/api/auth/signin");
-  }
-
-  const attempts = user.quizAttempts;
+  // NO-DB VERSION
+  // -------------
+  // We are not loading attempts from a database anymore.
+  // Keep the structure but use an empty list for now.
+  const attempts: Attempt[] = [];
 
   // Calculate stats
   const mockExams = attempts.filter((a) => a.isMockExam);
@@ -30,12 +35,18 @@ export default async function QuizHistoryPage() {
 
   const avgMockScore =
     mockExams.length > 0
-      ? Math.round(mockExams.reduce((sum, a) => sum + (a.score || 0), 0) / mockExams.length)
+      ? Math.round(
+          mockExams.reduce((sum, a) => sum + (a.score || 0), 0) /
+            mockExams.length,
+        )
       : 0;
 
   const avgTopicScore =
     topicQuizzes.length > 0
-      ? Math.round(topicQuizzes.reduce((sum, a) => sum + (a.score || 0), 0) / topicQuizzes.length)
+      ? Math.round(
+          topicQuizzes.reduce((sum, a) => sum + (a.score || 0), 0) /
+            topicQuizzes.length,
+        )
       : 0;
 
   return (
@@ -45,7 +56,9 @@ export default async function QuizHistoryPage() {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-4xl font-bold">Quiz History</h1>
-            <p className="text-slate-400 mt-2">Review all your quiz attempts and track improvement</p>
+            <p className="text-slate-400 mt-2">
+              Review all your quiz attempts and track improvement
+            </p>
           </div>
           <Link
             href="/dashboard"
@@ -64,17 +77,26 @@ export default async function QuizHistoryPage() {
           <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-4">
             <p className="text-sm text-slate-400">Mock Exams</p>
             <p className="text-3xl font-bold mt-2">{mockExams.length}</p>
-            {mockExams.length > 0 && <p className="text-xs text-sky-400 mt-1">Avg: {avgMockScore}%</p>}
+            {mockExams.length > 0 && (
+              <p className="text-xs text-sky-400 mt-1">Avg: {avgMockScore}%</p>
+            )}
           </div>
           <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-4">
             <p className="text-sm text-slate-400">Topic Quizzes</p>
             <p className="text-3xl font-bold mt-2">{topicQuizzes.length}</p>
-            {topicQuizzes.length > 0 && <p className="text-xs text-sky-400 mt-1">Avg: {avgTopicScore}%</p>}
+            {topicQuizzes.length > 0 && (
+              <p className="text-xs text-sky-400 mt-1">
+                Avg: {avgTopicScore}%
+              </p>
+            )}
           </div>
           <div className="rounded-xl border border-slate-800 bg-slate-900/60 p-4">
             <p className="text-sm text-slate-400">Best Score</p>
             <p className="text-3xl font-bold mt-2">
-              {attempts.length > 0 ? Math.max(...attempts.map((a) => a.score || 0)) : "—"}%
+              {attempts.length > 0
+                ? Math.max(...attempts.map((a) => a.score || 0))
+                : "—"}
+              %
             </p>
           </div>
         </div>
@@ -82,7 +104,9 @@ export default async function QuizHistoryPage() {
         {/* Quiz List */}
         {attempts.length === 0 ? (
           <div className="rounded-2xl border border-slate-800 bg-slate-900/60 p-12 text-center">
-            <p className="text-slate-400 mb-4">No quiz attempts yet. Start studying to see your history!</p>
+            <p className="text-slate-400 mb-4">
+              No quiz attempts yet. Start studying to see your history!
+            </p>
             <Link
               href="/study"
               className="inline-block rounded-md bg-sky-600 hover:bg-sky-700 text-white px-6 py-2 font-medium transition"
@@ -125,7 +149,9 @@ export default async function QuizHistoryPage() {
                           <span className="text-lg font-semibold">
                             {attempt.isMockExam
                               ? `📋 Mock Exam (${attempt.examId})`
-                              : `📚 ${attempt.topicId || "Quiz"} (${attempt.examId})`}
+                              : `📚 ${attempt.topicId || "Quiz"} (${
+                                  attempt.examId
+                                })`}
                           </span>
                           <span className="text-xs text-slate-500">
                             {dateStr} at {timeStr}
@@ -133,7 +159,8 @@ export default async function QuizHistoryPage() {
                         </div>
                         <div className="flex items-center gap-4 text-sm text-slate-400">
                           <span>
-                            {attempt.correctAnswers}/{attempt.totalQuestions} correct
+                            {attempt.correctAnswers}/
+                            {attempt.totalQuestions} correct
                           </span>
                           {attempt.timeSpent && (
                             <span>
@@ -147,7 +174,9 @@ export default async function QuizHistoryPage() {
                       </div>
 
                       <div className="text-right">
-                        <p className={`text-4xl font-bold ${scoreColor}`}>{attempt.score || "—"}%</p>
+                        <p className={`text-4xl font-bold ${scoreColor}`}>
+                          {attempt.score || "—"}%
+                        </p>
                         <p className="text-xs text-slate-500 mt-1">
                           {attempt.isMockExam ? "Mock Exam" : "Topic Quiz"}
                         </p>

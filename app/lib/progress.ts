@@ -1,35 +1,24 @@
+// app/lib/progress.ts
 
 import { coreTopics, diversityTopics } from "./questions";
 
-export async function getTopicMasteryForUser(userId: string) {
-  // Get all quiz attempts for this user
-  const attempts = await prisma.quizAttempt.findMany({
-    where: { userId },
-    include: { results: true },
-  });
+export async function getTopicMasteryForUser(_userId: string) {
+  // NO-DB VERSION
+  // -------------
+  // We are not loading quiz attempts from a database anymore.
+  // For now, we:
+  // - list all topics for each module,
+  // - set bestScore to 0,
+  // - mark all as not mastered.
+  //
+  // Later, if you reintroduce Prisma, you can:
+  // - fetch quiz attempts here,
+  // - compute topicScores and masteredTopics,
+  // - and reuse the original logic.
 
-  // Calculate best score per topic
   const topicScores = new Map<string, number>();
-
-  attempts.forEach((attempt) => {
-    if (attempt.topicId) {
-      const score = Math.round((attempt.correctAnswers / attempt.totalQuestions) * 100);
-      const current = topicScores.get(attempt.topicId) || 0;
-      if (score > current) {
-        topicScores.set(attempt.topicId, score);
-      }
-    }
-  });
-
-  // Determine mastery (≥80%)
   const masteredTopics = new Set<string>();
-  topicScores.forEach((score, topicId) => {
-    if (score >= 80) {
-      masteredTopics.add(topicId);
-    }
-  });
 
-  // Calculate progress per exam
   const coreProgress = {
     exam: "core",
     total: coreTopics.length,

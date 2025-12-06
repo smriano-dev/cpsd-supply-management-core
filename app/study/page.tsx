@@ -1,25 +1,17 @@
-import { questions } from "@/app/data/cpsdQuestions";
-import { getServerSession } from "next-auth";
-import { getTopicsForExam } from "../lib/questions";
-import { getTopicMasteryForUser } from "../lib/progress";
+// app/study/page.tsx
 
+import { getServerSession } from "next-auth";
+import { getTopicMasteryForUser } from "@/app/lib/progress";
 import StudyPageClient from "./client";
 
 export default async function StudyPage() {
-  console.log(questions);
-
+  // We still check the session, but topicProgress no longer depends on the DB.
   const session = await getServerSession();
 
-  let topicProgress = null;
-  
-  if (session?.user?.email) {
-    const user = await prisma.user.findUnique({
-      where: { email: session.user.email },
-    });
-    if (user) {
-      topicProgress = await getTopicMasteryForUser(user.id);
-    }
-  }
+  // NO-DB VERSION
+  // -------------
+  // getTopicMasteryForUser no longer uses the actual userId, so we can pass
+  // a dummy value. This keeps the API compatible with the client component.
+  const topicProgress = await getTopicMasteryForUser("dummy-user-id");}
 
-  return <StudyPageClient topicProgress={topicProgress} />;
-}
+ 
