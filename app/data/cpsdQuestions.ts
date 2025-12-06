@@ -1,570 +1,20 @@
 // app/data/cpsdQuestions.ts
 
-
 export type ModuleId = "supplier-diversity" | "supply-management";
-
-
 export type Difficulty = "easy" | "medium" | "hard";
-
-
 export type Question = {
-  id: string; // e.g. "SD-001"
+  id: string;
   module: ModuleId;
-  domain: string; // e.g. "Foundations", "Strategy", "Risk"
+  domain: string;
   difficulty: Difficulty;
   stem: string;
   options: string[];
-  correctIndex: number; // 0-based index in options[]
+  correctIndex: number;
   explanation: string;
 };
 
-
+// MAIN QUESTION BANK
 export const questions: Question[] = [
-  // ============================
-  // SUPPLIER DIVERSITY (30)
-  // ============================
-
-
-  {
-    id: "SD-001",
-    module: "supplier-diversity",
-    domain: "Foundations",
-    difficulty: "easy",
-    stem: "What is the primary purpose of a supplier diversity programme?",
-    options: [
-      "To meet legal quotas for specific groups",
-      "To increase spend with underrepresented suppliers while creating business value",
-      "To replace all incumbent suppliers with diverse suppliers",
-      "To reduce the number of suppliers in the supply base",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Supplier diversity programmes aim to intentionally include underrepresented suppliers in sourcing decisions while driving innovation, competitiveness, and broader business value.",
-  },
-
-
-  {
-    id: "SD-002",
-    module: "supplier-diversity",
-    domain: "Foundations",
-    difficulty: "easy",
-    stem: "Which of the following best describes a diverse supplier?",
-    options: [
-      "Any small business with fewer than 500 employees",
-      "A supplier that offers environmentally friendly products",
-      "A business majority-owned, managed, and controlled by members of an underrepresented group",
-      "Any supplier based outside the company’s home country",
-    ],
-    correctIndex: 2,
-    explanation:
-      "A diverse supplier is typically defined as a business that is majority-owned, managed, and controlled (often 51%+) by members of an underrepresented group, such as women, Indigenous peoples, racialised groups, people with disabilities, or 2SLGBTQIA+ communities.",
-  },
-
-
-  {
-    id: "SD-003",
-    module: "supplier-diversity",
-    domain: "Foundations",
-    difficulty: "easy",
-    stem: "Why is third-party certification of diverse suppliers important for large organisations?",
-    options: [
-      "It guarantees the supplier will always offer the lowest price",
-      "It validates ownership and control, reducing risk in reporting and regulatory disclosures",
-      "It eliminates the need for procurement due diligence",
-      "It transfers all legal liability to the certifying council",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Third-party certification validates ownership and control, which supports accurate internal and external reporting and reduces reputational and compliance risk.",
-  },
-
-
-  {
-    id: "SD-004",
-    module: "supplier-diversity",
-    domain: "Strategy",
-    difficulty: "medium",
-    stem: "Which statement best links supplier diversity to overall corporate strategy?",
-    options: [
-      "Supplier diversity is a separate CSR activity with no impact on core strategy",
-      "Supplier diversity should only be pursued once all savings targets are met",
-      "Supplier diversity supports innovation, market access, and ESG goals and should be integrated into category strategies",
-      "Supplier diversity is mainly a marketing slogan for annual reports",
-    ],
-    correctIndex: 2,
-    explanation:
-      "When integrated into category strategies, supplier diversity supports innovation, resilience, local economic impact, and ESG commitments, making it part of core business strategy rather than a stand-alone CSR initiative.",
-  },
-
-
-  {
-    id: "SD-005",
-    module: "supplier-diversity",
-    domain: "Data & Reporting",
-    difficulty: "medium",
-    stem: "Which metric is most commonly used as a primary KPI for supplier diversity performance?",
-    options: [
-      "Total number of suppliers onboarded each year",
-      "Percentage of addressable spend with certified diverse suppliers",
-      "Number of RFPs issued annually",
-      "Average payment terms for all suppliers",
-    ],
-    correctIndex: 1,
-    explanation:
-      "The percentage of addressable spend with certified diverse suppliers is a common KPI because it links activity directly to actual spend and economic impact.",
-  },
-
-
-  {
-    id: "SD-006",
-    module: "supplier-diversity",
-    domain: "Data & Reporting",
-    difficulty: "medium",
-    stem: "What is 'Tier 2' diverse spend?",
-    options: [
-      "Spend with direct diverse suppliers only",
-      "Spend that is not tracked in the ERP system",
-      "Spend by the organisation’s prime suppliers with their own diverse sub-suppliers",
-      "Spend that occurs outside the home country",
-    ],
-    correctIndex: 2,
-    explanation:
-      "Tier 2 diverse spend is spend by your prime (Tier 1) suppliers with their own diverse sub-suppliers, reported back to the buying organisation.",
-  },
-
-
-  {
-    id: "SD-007",
-    module: "supplier-diversity",
-    domain: "Governance",
-    difficulty: "medium",
-    stem: "Which governance mechanism best supports a sustainable supplier diversity programme?",
-    options: [
-      "A one-time executive announcement during launch",
-      "A cross-functional steering committee with executive sponsorship and defined KPIs",
-      "An informal working group run by volunteers only",
-      "Leaving supplier diversity decisions to individual buyers without guidance",
-    ],
-    correctIndex: 1,
-    explanation:
-      "A cross-functional steering committee with executive sponsorship ensures accountability, cross-enterprise alignment, and integration with strategy and KPIs.",
-  },
-
-
-  {
-    id: "SD-008",
-    module: "supplier-diversity",
-    domain: "Stakeholder Engagement",
-    difficulty: "easy",
-    stem: "Which internal function is typically most critical to partner with when launching a supplier diversity programme?",
-    options: [
-      "Facilities management only",
-      "Marketing only",
-      "Procurement / Sourcing",
-      "Payroll",
-    ],
-    correctIndex: 2,
-    explanation:
-      "Procurement / Sourcing controls purchasing channels and supplier selection processes, making it a key partner for embedding supplier diversity into day-to-day decisions.",
-  },
-
-
-  {
-    id: "SD-009",
-    module: "supplier-diversity",
-    domain: "Risk & Compliance",
-    difficulty: "medium",
-    stem: "Which risk is most associated with inaccurate supplier diversity data?",
-    options: [
-      "Higher freight costs",
-      "Misreporting progress to regulators, investors, or rating agencies",
-      "Longer payment terms to small suppliers",
-      "Increased office space requirements",
-    ],
-    correctIndex: 1,
-    explanation:
-      "If ownership or certification status is inaccurate, the organisation may misreport its performance to regulators, investors, and rating agencies, creating reputational and compliance risk.",
-  },
-
-
-  {
-    id: "SD-010",
-    module: "supplier-diversity",
-    domain: "Sourcing Process",
-    difficulty: "medium",
-    stem: "At which stage of the sourcing process is it most effective to introduce diverse suppliers?",
-    options: [
-      "After the contract is already signed",
-      "During category strategy and market scan stages, before issuing an RFP",
-      "Only if the incumbent fails to deliver",
-      "Only at invoice approval",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Including diverse suppliers during category strategy and early market scanning increases the chance they are invited to compete fairly in RFx events.",
-  },
-
-
-  {
-    id: "SD-011",
-    module: "supplier-diversity",
-    domain: "Supplier Development",
-    difficulty: "medium",
-    stem: "Which activity best supports capacity building for diverse suppliers?",
-    options: [
-      "Shortening RFx timelines to under one week",
-      "Offering joint planning sessions, feedback, and mentorship on proposals",
-      "Limiting contract terms to one year only",
-      "Requiring all suppliers to use the same complex portal without support",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Joint planning, feedback, and mentorship help diverse suppliers understand expectations, strengthen proposals, and scale capabilities.",
-  },
-
-
-  {
-    id: "SD-012",
-    module: "supplier-diversity",
-    domain: "Myths & Misconceptions",
-    difficulty: "easy",
-    stem: "Which statement is a common misconception about diverse suppliers?",
-    options: [
-      "They can be highly innovative and agile",
-      "They always charge more and deliver less value",
-      "They can open access to new customer segments",
-      "They often bring specialised, niche expertise",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Assuming diverse suppliers always cost more and deliver less value is a stereotype. Evidence shows they often offer innovation, agility, and competitive pricing.",
-  },
-
-
-  {
-    id: "SD-013",
-    module: "supplier-diversity",
-    domain: "Regulatory Context",
-    difficulty: "medium",
-    stem: "Why should procurement understand local regulations related to equity and inclusion when designing a supplier diversity programme?",
-    options: [
-      "To ensure the programme replaces HR equity initiatives",
-      "To align voluntary efforts with applicable laws and avoid unintended discrimination or exclusion",
-      "To avoid working with any foreign-owned suppliers",
-      "To automatically qualify all small businesses as diverse",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Understanding local regulations helps align voluntary supplier diversity efforts with legal frameworks and avoid creating discriminatory or exclusionary practices.",
-  },
-
-
-  {
-    id: "SD-014",
-    module: "supplier-diversity",
-    domain: "Measurement",
-    difficulty: "medium",
-    stem: "What is 'addressable spend' in the context of supplier diversity?",
-    options: [
-      "Total organisational spend, including salaries and taxes",
-      "Spend that can realistically be influenced by sourcing decisions and could be directed to diverse suppliers",
-      "Only marketing spend with diverse agencies",
-      "All capital expenditure only",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Addressable spend excludes items like salaries and taxes and focuses on spend categories where procurement decisions can realistically influence supplier selection.",
-  },
-
-
-  {
-    id: "SD-015",
-    module: "supplier-diversity",
-    domain: "Change Management",
-    difficulty: "medium",
-    stem: "Which approach is most effective for changing buyer behaviour to include diverse suppliers?",
-    options: [
-      "Rely on a single email announcement",
-      "Add diverse supplier targets to performance objectives and provide clear sourcing playbooks",
-      "Only highlight success stories at year-end",
-      "Punish buyers who do not meet targets without offering support",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Embedding targets into objectives and providing practical tools, playbooks, and training is more effective than one-off communications or punitive approaches.",
-  },
-
-
-  {
-    id: "SD-016",
-    module: "supplier-diversity",
-    domain: "Ecosystem Partnerships",
-    difficulty: "easy",
-    stem: "Why do organisations join councils such as CAMSC, WBE-centric councils, or disability-owned business councils?",
-    options: [
-      "To outsource their entire procurement function",
-      "To access certified suppliers, training, events, and best practices",
-      "To eliminate the need for internal reporting",
-      "To avoid working with non-certified suppliers",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Councils provide access to certified suppliers, matchmaking events, training, and best practices that support programme growth.",
-  },
-
-
-  {
-    id: "SD-017",
-    module: "supplier-diversity",
-    domain: "ESG & Impact",
-    difficulty: "medium",
-    stem: "How does supplier diversity support ESG outcomes?",
-    options: [
-      "By reducing all environmental compliance requirements",
-      "By enabling economic inclusion, supporting local communities, and often contributing to social and governance goals",
-      "By focusing solely on cost reduction",
-      "By allowing procurement to ignore environmental standards",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Supplier diversity supports the ‘S’ (social) and sometimes the ‘G’ (governance) pillars of ESG by promoting inclusive economic participation and transparent reporting.",
-  },
-
-
-  {
-    id: "SD-018",
-    module: "supplier-diversity",
-    domain: "Category Management",
-    difficulty: "medium",
-    stem: "Which is a practical way to embed supplier diversity into category strategies?",
-    options: [
-      "Stating a generic commitment in the introduction of the strategy only",
-      "Including specific opportunities, targets, and sourcing tactics for diverse suppliers in each category plan",
-      "Leaving all decisions to suppliers",
-      "Limiting diverse suppliers to low-value tactical purchases only",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Embedding specific opportunities, targets, and tactics in each category plan makes supplier diversity actionable and measurable.",
-  },
-
-
-  {
-    id: "SD-019",
-    module: "supplier-diversity",
-    domain: "Supplier Experience",
-    difficulty: "medium",
-    stem: "Which action best improves the experience of diverse suppliers in your sourcing process?",
-    options: [
-      "Using long, complex RFx documents without guidance",
-      "Providing clear requirements, realistic timelines, and Q&A sessions",
-      "Restricting access to RFx documents to incumbents only",
-      "Disqualifying suppliers that ask clarifying questions",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Clear requirements, realistic timelines, and opportunities for questions help level the playing field and improve participation quality.",
-  },
-
-
-  {
-    id: "SD-020",
-    module: "supplier-diversity",
-    domain: "Executive Communication",
-    difficulty: "medium",
-    stem: "Which message is most effective when communicating supplier diversity to senior executives?",
-    options: [
-      "It is important primarily for public relations",
-      "It is a compliance checkbox for ESG ratings",
-      "It contributes to risk mitigation, innovation, access to talent and markets, and long-term competitiveness",
-      "It only benefits small suppliers, not the organisation",
-    ],
-    correctIndex: 2,
-    explanation:
-      "Executives respond to clear links with risk, innovation, market growth, and competitive advantage rather than PR-only justifications.",
-  },
-
-
-  {
-    id: "SD-021",
-    module: "supplier-diversity",
-    domain: "Analytics",
-    difficulty: "hard",
-    stem: "Your organisation reports 4% diverse spend on a total spend of $5B, but only $2B is addressable. What is your diverse spend as a percentage of addressable spend?",
-    options: ["4%", "10%", "8%", "2%"],
-    correctIndex: 2,
-    explanation:
-      "4% of $5B equals $200M. When compared to the $2B addressable spend, $200M / $2B = 10%, but note: the question is asking for diverse spend as a percentage of addressable spend, so the correct answer is 10%.",
-  },
-
-
-  {
-    id: "SD-022",
-    module: "supplier-diversity",
-    domain: "Programme Design",
-    difficulty: "medium",
-    stem: "Which is the best first step when building a supplier diversity roadmap?",
-    options: [
-      "Immediately setting an aggressive external public target",
-      "Completing a baseline analysis of current spend and supplier composition",
-      "Cancelling existing supplier contracts",
-      "Launching a large media campaign",
-    ],
-    correctIndex: 1,
-    explanation:
-      "A baseline analysis of current spend and supplier composition is essential to design realistic targets and priorities.",
-  },
-
-
-  {
-    id: "SD-023",
-    module: "supplier-diversity",
-    domain: "Contracting",
-    difficulty: "medium",
-    stem: "Which contracting practice can support diverse supplier inclusion?",
-    options: [
-      "Bundling many unrelated services into one very large contract",
-      "Including subcontracting clauses that encourage prime suppliers to use certified diverse sub-suppliers",
-      "Setting unusually high insurance thresholds without justification",
-      "Using only global master agreements with a single supplier",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Subcontracting clauses and realistic contract structuring can create opportunities for diverse suppliers to participate directly or as sub-suppliers.",
-  },
-
-
-  {
-    id: "SD-024",
-    module: "supplier-diversity",
-    domain: "Payment Terms",
-    difficulty: "medium",
-    stem: "Why is it important to consider payment terms for diverse and small suppliers?",
-    options: [
-      "They always want longer payment terms",
-      "Extended payment terms can create cash-flow challenges and exclusionary barriers",
-      "Payment terms have no effect on supplier inclusion",
-      "Shorter terms always increase total cost",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Small and diverse suppliers may have limited access to capital, so very long payment terms can limit their ability to participate or scale.",
-  },
-
-
-  {
-    id: "SD-025",
-    module: "supplier-diversity",
-    domain: "Training",
-    difficulty: "easy",
-    stem: "What is a key objective of internal training on supplier diversity for buyers?",
-    options: [
-      "Teaching them how to bypass sourcing policies",
-      "Explaining why cost and quality no longer matter",
-      "Clarifying how to identify opportunities, adjust sourcing practices, and measure impact",
-      "Convincing them to work with fewer suppliers overall",
-    ],
-    correctIndex: 2,
-    explanation:
-      "Training should equip buyers to recognise opportunities, apply inclusive sourcing practices, and understand metrics and impact.",
-  },
-
-
-  {
-    id: "SD-026",
-    module: "supplier-diversity",
-    domain: "Intersectionality",
-    difficulty: "medium",
-    stem: "Why is an intersectional lens important in supplier diversity?",
-    options: [
-      "It simplifies all categories into a single label",
-      "It recognises that identities such as race, gender, disability, and sexuality overlap and affect access to opportunities",
-      "It focuses only on one priority group at a time",
-      "It is used only for marketing purposes",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Intersectionality recognises that overlapping identities shape how people experience systems, including access to capital and procurement opportunities.",
-  },
-
-
-  {
-    id: "SD-027",
-    module: "supplier-diversity",
-    domain: "Localization",
-    difficulty: "medium",
-    stem: "What should a global company consider when rolling out supplier diversity across regions?",
-    options: [
-      "Using the exact same definitions and councils everywhere",
-      "Local legal frameworks, local equity priorities, and regional supplier ecosystems",
-      "Only the head office’s priorities",
-      "Restricting programmes to the country with the largest spend",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Effective global programmes respect local legal frameworks, community priorities, and supplier ecosystems rather than imposing a single model.",
-  },
-
-
-  {
-    id: "SD-028",
-    module: "supplier-diversity",
-    domain: "Impact Storytelling",
-    difficulty: "medium",
-    stem: "Which element most strengthens a supplier diversity impact story for executives?",
-    options: [
-      "Focusing exclusively on emotional testimonials",
-      "Quantifying revenue growth, innovation outcomes, or risk reduction linked to diverse supplier partnerships",
-      "Avoiding any metrics to keep the story simple",
-      "Only highlighting community donations",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Stories that combine qualitative narratives with quantitative business outcomes are most persuasive to executives.",
-  },
-
-
-  {
-    id: "SD-029",
-    module: "supplier-diversity",
-    domain: "Technology",
-    difficulty: "medium",
-    stem: "How can procurement technology best support supplier diversity?",
-    options: [
-      "By hiding supplier ownership fields to reduce data entry",
-      "By enabling tagging of diverse suppliers, integrating certification data, and providing dashboards",
-      "By limiting access to diverse suppliers in catalogues",
-      "By disabling reporting features",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Tagging, integrated certification data, and dashboards allow buyers to find diverse suppliers and track performance.",
-  },
-
-
-  {
-    id: "SD-030",
-    module: "supplier-diversity",
-    domain: "Continuous Improvement",
-    difficulty: "medium",
-    stem: "Which practice helps ensure continuous improvement of a supplier diversity programme?",
-    options: [
-      "Setting targets once and never revisiting them",
-      "Collecting feedback from suppliers and buyers, reviewing data trends, and updating strategies regularly",
-      "Stopping reporting when targets are not met",
-      "Changing KPIs every month",
-    ],
-    correctIndex: 1,
-    explanation:
-      "Continuous improvement relies on regular feedback, data analysis, and iterative updates to strategy and processes.",
-  },
-
-
-  // ============================
-  // SUPPLY MANAGEMENT (30)
-  // ============================
-
-
   {
     id: "SM-001",
     module: "supply-management",
@@ -1093,31 +543,6 @@ export const questions: Question[] = [
     explanation:
       "Continuous improvement involves ongoing, data-driven efforts to refine processes, reduce waste, and increase value.",
   },
-
-
-  {
-    id: "SD-021",
-    module: "supplier-diversity",
-    domain: "Analytics",
-    difficulty: "hard",
-    stem: "Your organisation reports 4% diverse spend on a total spend of $5B, but only $2B is addressable. What is your diverse spend as a percentage of addressable spend?",
-    options: ["4%", "10%", "8%", "2%"],
-    correctIndex: 1,
-    explanation:
-    "4% of $5B equals $200M. When compared to the $2B addressable spend, $200M / $2B = 10%, so diverse spend as a percentage of addressable spend is 10%.",
-  },
-
-
-];
-
-
-
-
-
-export const moreQuestionsBatch1: Question[] = [
-  // =========================================
-  // SUPPLIER DIVERSITY SD-031 – SD-080
-  // =========================================
 
 
   {
@@ -2717,15 +2142,6 @@ export const moreQuestionsBatch1: Question[] = [
     explanation:
       "Adoption data shows where processes are working and where more support is needed.",
   },
-];
-
-
-
-
-export const moreQuestionsBatch4: Question[] = [
-  // =========================================
-  // SUPPLIER DIVERSITY SD-181 – SD-230
-  // =========================================
 
 
   {
@@ -4335,17 +3751,6 @@ export const moreQuestionsBatch4: Question[] = [
     explanation:
       "Effective communication enables stakeholders to describe and act on changes.",
   },
-];
-
-
-
-
-
-
-export const moreQuestionsBatch5: Question[] = [
-  // =========================================
-  // SUPPLIER DIVERSITY SD-231 – SD-280
-  // =========================================
 
 
   {
@@ -5955,18 +5360,6 @@ export const moreQuestionsBatch5: Question[] = [
     explanation:
       "Sustained change requires reinforcement and alignment of systems and incentives.",
   },
-];
-
-
-
-
-
-
-export const moreQuestionsBatch6: Question[] = [
-  // =========================================
-  // SUPPLIER DIVERSITY SD-281 – SD-330
-  // =========================================
-
 
   {
     id: "SD-281",
@@ -7575,19 +6968,6 @@ export const moreQuestionsBatch6: Question[] = [
     explanation:
       "Supporting people’s capacity to cope with change improves performance and retention.",
   },
-];
-
-
-
-
-
-
-
-
-export const moreQuestionsBatch7: Question[] = [
-  // =========================================
-  // SUPPLIER DIVERSITY SD-331 – SD-380
-  // =========================================
 
 
   {
@@ -9197,19 +8577,6 @@ export const moreQuestionsBatch7: Question[] = [
     explanation:
       "Quantitative and qualitative indicators show whether policies are actually used.",
   },
-];
-
-
-
-
-
-
-export const moreQuestionsBatch9: Question[] = [
-
-
-  // ========================================
-  // SUPPLIER DIVERSITY SD-421 – SD-470
-  // ========================================
 
 
   {
@@ -10946,25 +10313,6 @@ export const moreQuestionsBatch9: Question[] = [
   },
 
 
-];
-
-
-
-
-
-/**
- * Batch 10 completes the set up to:
- * - Supplier Diversity: SD-471 – SD-500 (total 500 SD questions)
- * - Supply Management:  SM-471 – SM-500 (total 500 SM questions)
- */
-
-
-export const moreQuestionsBatch10: Question[] = [
-  // ========================================
-  // SUPPLIER DIVERSITY SD-471 – SD-500
-  // ========================================
-
-
   {
     id: "SD-471",
     module: "supplier-diversity",
@@ -11445,11 +10793,6 @@ export const moreQuestionsBatch10: Question[] = [
     explanation:
       "Institutionalising the work makes it less vulnerable to individual turnover.",
   },
-
-
-  // ========================================
-  // SUPPLY MANAGEMENT SM-471 – SM-500
-  // ========================================
 
 
   {
