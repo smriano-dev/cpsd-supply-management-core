@@ -1093,20 +1093,22 @@ export const questions: Question[] = [
     explanation:
       "Continuous improvement involves ongoing, data-driven efforts to refine processes, reduce waste, and increase value.",
   },
-];
 
 
-{
-  id: "SD-021",
-  module: "supplier-diversity",
-  domain: "Analytics",
-  difficulty: "hard",
-  stem: "Your organisation reports 4% diverse spend on a total spend of $5B, but only $2B is addressable. What is your diverse spend as a percentage of addressable spend?",
-  options: ["4%", "10%", "8%", "2%"],
-  correctIndex: 1,
-  explanation:
+  {
+    id: "SD-021",
+    module: "supplier-diversity",
+    domain: "Analytics",
+    difficulty: "hard",
+    stem: "Your organisation reports 4% diverse spend on a total spend of $5B, but only $2B is addressable. What is your diverse spend as a percentage of addressable spend?",
+    options: ["4%", "10%", "8%", "2%"],
+    correctIndex: 1,
+    explanation:
     "4% of $5B equals $200M. When compared to the $2B addressable spend, $200M / $2B = 10%, so diverse spend as a percentage of addressable spend is 10%.",
-},
+  },
+
+
+];
 
 
 import type { Question } from "./cpsdQuestions";
