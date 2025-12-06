@@ -1111,7 +1111,7 @@ export const questions: Question[] = [
 ];
 
 
-import type { Question } from "./cpsdQuestions";
+
 
 
 export const moreQuestionsBatch1: Question[] = [
@@ -2720,7 +2720,6 @@ export const moreQuestionsBatch1: Question[] = [
 ];
 
 
-import type { Question } from "./cpsdQuestions";
 
 
 export const moreQuestionsBatch4: Question[] = [
@@ -4341,7 +4340,6 @@ export const moreQuestionsBatch4: Question[] = [
 
 
 
-import type { Question } from "./cpsdQuestions";
 
 
 export const moreQuestionsBatch5: Question[] = [
@@ -5964,9 +5962,6 @@ export const moreQuestionsBatch5: Question[] = [
 
 
 
-import type { Question } from "./cpsdQuestions";
-
-
 export const moreQuestionsBatch6: Question[] = [
   // =========================================
   // SUPPLIER DIVERSITY SD-281 – SD-330
@@ -7587,7 +7582,6 @@ export const moreQuestionsBatch6: Question[] = [
 
 
 
-import type { Question } from "./cpsdQuestions";
 
 
 export const moreQuestionsBatch7: Question[] = [
@@ -9208,7 +9202,6 @@ export const moreQuestionsBatch7: Question[] = [
 
 
 
-import type { Question } from "./cpsdQuestions";
 
 
 export const moreQuestionsBatch9: Question[] = [
@@ -10956,7 +10949,7 @@ export const moreQuestionsBatch9: Question[] = [
 ];
 
 
-import type { Question } from "./cpsdQuestions";
+
 
 
 /**
