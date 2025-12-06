@@ -5,13 +5,12 @@ import { getTopicMasteryForUser } from "@/app/lib/progress";
 import StudyPageClient from "./client";
 
 export default async function StudyPage() {
-  // We still check the session, but topicProgress no longer depends on the DB.
+  // Still check the session (even if not used yet)
   const session = await getServerSession();
 
   // NO-DB VERSION
-  // -------------
-  // getTopicMasteryForUser no longer uses the actual userId, so we can pass
-  // a dummy value. This keeps the API compatible with the client component.
-  const topicProgress = await getTopicMasteryForUser("dummy-user-id");}
+  // getTopicMasteryForUser no longer needs a real userId
+  const topicProgress = await getTopicMasteryForUser("dummy-user-id");
 
- 
+  return <StudyPageClient topicProgress={topicProgress} />;
+}
