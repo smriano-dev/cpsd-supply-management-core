@@ -1,4 +1,4 @@
-import { prisma } from "./prisma";
+// app/lib/badges.ts
 
 export type BadgeName = "Module Mastery" | "Consistency" | "Exam Ready";
 
@@ -26,51 +26,42 @@ export const BADGES: Record<BadgeName, BadgeInfo> = {
   },
 };
 
-export async function checkBadges(userId: string, context: {
-  score: number;
-  isMockExam: boolean;
-  topicId?: string | null;
-}): Promise<BadgeName[]> {
-  const user = await prisma.user.findUnique({
-    where: { id: userId },
-    include: { quizAttempts: true },
-  });
-
-  if (!user) return [];
-
+/**
+ * TEMPORARY NO-DB VERSION
+ * -----------------------
+ * We don't read or write from a database anymore.
+ * This helper just computes potential badges from the context.
+ * You can plug a real DB back in later if you want persistence.
+ */
+export async function checkBadges(
+  _userId: string,
+  context: {
+    score: number;
+    isMockExam: boolean;
+    topicId?: string | null;
+  }
+): Promise<BadgeName[]> {
   const newBadges: BadgeName[] = [];
-  const existingBadges = JSON.parse(user.badges || "[]") as BadgeName[];
 
   // Module Mastery: ≥90% on any topic
-  if (context.topicId && context.score >= 90 && !existingBadges.includes("Module Mastery")) {
+  if (context.topicId && context.score >= 90) {
     newBadges.push("Module Mastery");
   }
 
-  // Exam Ready: ≥80% on first mock exam
-  if (
-    context.isMockExam &&
-    context.score >= 80 &&
-    !existingBadges.includes("Exam Ready")
-  ) {
-    // Check if this is the first mock exam
-    const mockExams = user.quizAttempts.filter((a) => a.isMockExam);
-    if (mockExams.length === 1) {
-      // This is the first and only mock exam
-      newBadges.push("Exam Ready");
-    }
+  // Exam Ready: ≥80% on a mock exam
+  if (context.isMockExam && context.score >= 80) {
+    newBadges.push("Exam Ready");
   }
 
-  // Consistency: 7-day study streak
-  if (!existingBadges.includes("Consistency")) {
-    const streak = calculateStreak(user.lastStudyDate);
-    if (streak >= 7) {
-      newBadges.push("Consistency");
-    }
-  }
+  // Consistency requires real date history, which we are not tracking
+  // without a database, so we skip it for now.
 
   return newBadges;
 }
 
+/**
+ * Pure helper – keeps working without a database.
+ */
 export function calculateStreak(lastStudyDate: Date | null): number {
   if (!lastStudyDate) return 1;
 
@@ -83,63 +74,20 @@ export function calculateStreak(lastStudyDate: Date | null): number {
   const diffTime = today.getTime() - lastDate.getTime();
   const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
-  // If study was today, streak continues
-  // If study was yesterday, streak is still active (user studying today)
-  // If more than 1 day ago, streak is broken
   if (diffDays === 0 || diffDays === 1) {
-    return -1; // Signal to check database for actual streak
+    // In a future DB-backed version you could compute real streaks.
+    return -1;
   }
 
-  return 0; // Streak broken
+  return 0;
 }
 
-export async function updateStreakCount(userId: string): Promise<number> {
-  const user = await prisma.user.findUnique({
-    where: { id: userId },
-    include: {
-      quizAttempts: {
-        orderBy: { createdAt: "desc" },
-      },
-    },
-  });
-
-  if (!user) return 0;
-
-  // Get unique study dates (by day, ignoring time)
-  const studyDates = new Set<string>();
-  user.quizAttempts.forEach((attempt) => {
-    const dateStr = attempt.createdAt.toISOString().split("T")[0];
-    studyDates.add(dateStr);
-  });
-
-  // Sort dates in descending order
-  const sortedDates = Array.from(studyDates).sort().reverse();
-
-  // Calculate consecutive streak from most recent
-  let streak = 0;
-  const today = new Date().toISOString().split("T")[0];
-
-  for (let i = 0; i < sortedDates.length; i++) {
-    const currentDate = new Date(sortedDates[i]);
-    const expectedDate = new Date();
-    expectedDate.setDate(expectedDate.getDate() - i);
-    const expectedStr = expectedDate.toISOString().split("T")[0];
-
-    if (sortedDates[i] === expectedStr) {
-      streak++;
-    } else {
-      break;
-    }
-  }
-
-  // Update user's streak
-  await prisma.user.update({
-    where: { id: userId },
-    data: {
-      streakCount: streak,
-      lastStudyDate: new Date(),
-    },
-  });
-
-  return streak;
+/**
+ * TEMPORARY NO-DB STUB
+ * --------------------
+ * Without a database, we can't update a stored streak.
+ * We just return 0 so callers don't break.
+ */
+export async function updateStreakCount(_userId: string): Promise<number> {
+  return 0;
 }

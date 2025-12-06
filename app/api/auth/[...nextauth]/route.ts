@@ -1,11 +1,8 @@
 import NextAuth from "next-auth";
-import { PrismaAdapter } from "@next-auth/prisma-adapter";
 import GoogleProvider from "next-auth/providers/google";
-import { prisma } from "@/app/lib/prisma";
 import { Session } from "next-auth";
 
 const handler = NextAuth({
-  adapter: PrismaAdapter(prisma),
   providers: [
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID!,
@@ -14,12 +11,12 @@ const handler = NextAuth({
   ],
   secret: process.env.NEXTAUTH_SECRET,
   session: {
-    strategy: "database",
+    strategy: "jwt",
   },
   callbacks: {
     async session({ session, user }: { session: Session; user: { id: string; [key: string]: any } }) {
       if (session.user) {
-        (session.user as any).id = user.id;
+        (session.user as any).id = token.sub;
       }
       return session;
     },

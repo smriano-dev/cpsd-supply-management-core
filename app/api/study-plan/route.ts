@@ -1,6 +1,12 @@
+// app/api/study-plan/route.ts
+
 import { getServerSession } from "next-auth";
-import { prisma } from "@/app/lib/prisma";
-import { coreQuestions, diversityQuestions, coreTopics, diversityTopics } from "@/app/lib/questions";
+import {
+  coreQuestions,
+  diversityQuestions,
+  coreTopics,
+  diversityTopics,
+} from "@/app/lib/questions";
 import { NextResponse } from "next/server";
 
 type TopicAnalysis = {
@@ -34,20 +40,18 @@ export async function POST() {
     return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
 
-  const user = await prisma.user.findUnique({
-    where: { email: session.user.email },
-    include: {
-      quizAttempts: {
-        include: { results: true },
-      },
-    },
-  });
+  // --------------------------------------------------
+  // NO DATABASE VERSION
+  // --------------------------------------------------
+  // We no longer load quiz history from Prisma.
+  // Instead, we assume the user is starting fresh:
+  // - no previous attempts
+  // - all topics treated as "high" priority initially
+  // If later you re-introduce a DB, you can plug
+  // real attempt data back into this structure.
+  // --------------------------------------------------
 
-  if (!user) {
-    return NextResponse.json({ error: "User not found" }, { status: 404 });
-  }
-
-  // Analyze performance by topic
+  // Empty map – left here so the rest of the logic still compiles.
   const topicScores = new Map<
     string,
     {
@@ -57,41 +61,22 @@ export async function POST() {
     }
   >();
 
-  // Group all quiz results by topic
-  user.quizAttempts.forEach((attempt) => {
-    const allQuestions = attempt.examId === "diversity" ? diversityQuestions : coreQuestions;
-
-    attempt.results.forEach((result) => {
-      const question = allQuestions.find((q) => q.id === result.questionId);
-      if (!question) return;
-
-      const topic = question.topicId;
-      if (!topicScores.has(topic)) {
-        topicScores.set(topic, {
-          exam: attempt.examId,
-          scores: [],
-          totalQuestions: 0,
-        });
-      }
-
-      const stats = topicScores.get(topic)!;
-      stats.scores.push(result.isCorrect ? 1 : 0);
-      stats.totalQuestions += 1;
-    });
-  });
-
-  // Calculate topic analysis
   const topicAnalysis: TopicAnalysis[] = [];
 
   const allTopics = [...coreTopics, ...diversityTopics];
+
   allTopics.forEach((topic) => {
     const stats = topicScores.get(topic.id);
     const attemptCount = stats ? stats.scores.length : 0;
     const bestScore = stats
-      ? Math.round((stats.scores.filter((s) => s === 1).length / stats.scores.length) * 100)
+      ? Math.round(
+          (stats.scores.filter((s) => s === 1).length / stats.scores.length) *
+            100,
+        )
       : 0;
 
     // Determine priority based on score and attempt count
+    // With no history, this defaults to "high".
     let priority: "high" | "medium" | "low" = "low";
     if (bestScore < 60 || attemptCount === 0) {
       priority = "high";
@@ -100,13 +85,18 @@ export async function POST() {
     }
 
     // Calculate recommended review questions
-    const availableQuestions = (
+    const availableQuestions =
       topic.exam === "core"
-        ? coreQuestions.filter((q) => q.topicId === topic.id)
-        : diversityQuestions.filter((q) => q.topicId === topic.id)
-    ).length;
+        ? coreQuestions.filter((q) => q.topicId === topic.id).length
+        : diversityQuestions.filter((q) => q.topicId === topic.id).length;
 
-    const questionsToReview = Math.max(3, Math.ceil(availableQuestions * (priority === "high" ? 0.4 : priority === "medium" ? 0.25 : 0.1)));
+    const questionsToReview = Math.max(
+      3,
+      Math.ceil(
+        availableQuestions *
+          (priority === "high" ? 0.4 : priority === "medium" ? 0.25 : 0.1),
+      ),
+    );
 
     topicAnalysis.push({
       id: topic.id,
@@ -115,7 +105,8 @@ export async function POST() {
       bestScore,
       attemptCount,
       priority,
-      recommendedMinutesPerDay: priority === "high" ? 15 : priority === "medium" ? 10 : 5,
+      recommendedMinutesPerDay:
+        priority === "high" ? 15 : priority === "medium" ? 10 : 5,
       questionsToReview,
     });
   });
@@ -127,8 +118,12 @@ export async function POST() {
   });
 
   // Build study schedule (4-week plan focusing on weak areas)
-  const highPriorityTopics = topicAnalysis.filter((t) => t.priority === "high");
-  const mediumPriorityTopics = topicAnalysis.filter((t) => t.priority === "medium");
+  const highPriorityTopics = topicAnalysis.filter(
+    (t) => t.priority === "high",
+  );
+  const mediumPriorityTopics = topicAnalysis.filter(
+    (t) => t.priority === "medium",
+  );
   const lowPriorityTopics = topicAnalysis.filter((t) => t.priority === "low");
 
   const weeks: { week: number; focusTopics: string[]; goals: string[] }[] = [];
@@ -139,7 +134,7 @@ export async function POST() {
     focusTopics: highPriorityTopics.slice(0, 3).map((t) => t.label),
     goals: [
       "Build foundational understanding of key topics",
-      "Complete 3-5 practice questions per weak topic",
+      "Complete 3–5 practice questions per weak topic",
       "Identify knowledge gaps",
     ],
   });
@@ -183,9 +178,13 @@ export async function POST() {
     ],
   });
 
-  // Calculate total weak areas and daily study minutes
-  const totalWeakAreas = topicAnalysis.filter((t) => t.priority !== "low").length;
-  const totalDailyMinutes = topicAnalysis.reduce((sum, t) => sum + t.recommendedMinutesPerDay, 0);
+  // Calculate totals
+  const totalWeakAreas = topicAnalysis.filter((t) => t.priority !== "low")
+    .length;
+  const totalDailyMinutes = topicAnalysis.reduce(
+    (sum, t) => sum + t.recommendedMinutesPerDay,
+    0,
+  );
   const estimatedWeeksToCompletion = Math.ceil(totalWeakAreas / 2) + 2; // Minimum 4 weeks
 
   const plan: StudyPlan = {
@@ -197,13 +196,6 @@ export async function POST() {
     schedule: weeks,
   };
 
-  // Save study plan to database
-  await prisma.user.update({
-    where: { id: user.id },
-    data: {
-      studyPlan: JSON.stringify(plan),
-    },
-  });
-
+  // No DB save here – just return the plan.
   return NextResponse.json(plan);
 }

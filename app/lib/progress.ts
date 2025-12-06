@@ -1,4 +1,4 @@
-import { prisma } from "./prisma";
+
 import { coreTopics, diversityTopics } from "./questions";
 
 export async function getTopicMasteryForUser(userId: string) {

@@ -1,6 +1,5 @@
 import { getServerSession } from "next-auth";
 import { redirect } from "next/navigation";
-import { prisma } from "@/app/lib/prisma";
 import { coreQuestions, diversityQuestions, getTopicsForExam } from "@/app/lib/questions";
 import Link from "next/link";
 
