@@ -2,7 +2,8 @@
 
 export type ModuleId = "supplier-diversity" | "supply-management";
 export type Difficulty = "easy" | "medium" | "hard";
-export type Question = {
+
+export type RawQuestion = {
   id: string;
   module: ModuleId;
   domain: string;
@@ -13,8 +14,9 @@ export type Question = {
   explanation: string;
 };
 
+
 // MAIN QUESTION BANK
-export const questions: Question[] = [
+export const rawQuestions: RawQuestion[] = [
   {
     id: "SM-001",
     module: "supply-management",
