@@ -137,7 +137,7 @@ function mapModuleToExam(module: ModuleId): ExamId {
 // Simple mapping for now: you can refine later.
 // For the app to work, each question just needs *some* topicId.
 function mapDomainToTopicId(exam: ExamId, domain: string): string {
-  const key = domain.toLowerCase();
+  const key = (domain ?? "").toLowerCase();
 
   if (exam === "core") {
     if (key.includes("strategy") || key.includes("category")) return "core-strategy";

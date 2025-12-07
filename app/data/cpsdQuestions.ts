@@ -6,7 +6,7 @@ export type Difficulty = "easy" | "medium" | "hard";
 export type RawQuestion = {
   id: string;
   module: ModuleId;
-  domain: string;
+  domain: string;        // e.g., "Foundations", "Category Management"
   difficulty: Difficulty;
   stem: string;
   options: string[];
@@ -14,8 +14,8 @@ export type RawQuestion = {
   explanation: string;
 };
 
-
 // MAIN QUESTION BANK
+// Paste ALL your existing questions here, without changing their structure.
 export const rawQuestions: RawQuestion[] = [
   {
     id: "SM-001",
@@ -33,8 +33,6 @@ export const rawQuestions: RawQuestion[] = [
     explanation:
       "Supply management is strategic and integrates sourcing, procurement, and logistics to support broader organisational objectives.",
   },
-
-
   {
     id: "SM-002",
     module: "supply-management",
@@ -51,6 +49,7 @@ export const rawQuestions: RawQuestion[] = [
     explanation:
       "Category management treats groups of related goods/services as strategic business units with tailored strategies and levers.",
   },
+
 
 
   {
