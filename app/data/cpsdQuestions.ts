@@ -6,7 +6,7 @@ export type Difficulty = "easy" | "medium" | "hard";
 export type RawQuestion = {
   id: string;
   module: ModuleId;
-  domain: string;        // e.g., "Foundations", "Category Management"
+  domain: string;
   difficulty: Difficulty;
   stem: string;
   options: string[];
@@ -14,8 +14,6 @@ export type RawQuestion = {
   explanation: string;
 };
 
-// MAIN QUESTION BANK
-// Paste ALL your existing questions here, without changing their structure.
 export const rawQuestions: RawQuestion[] = [
   {
     id: "SM-001",

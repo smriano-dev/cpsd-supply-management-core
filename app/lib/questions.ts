@@ -1,8 +1,11 @@
 // lib/questions.ts
 // Central place for all exams, topics and questions
 
-import type { ModuleId } from "@/app/data/cpsdQuestions";
 import { rawQuestions } from "@/app/data/cpsdQuestions";
+
+// ===========================
+// TYPES
+// ===========================
 
 export type ExamId = "core" | "diversity";
 
@@ -21,6 +24,21 @@ export type Question = {
   options: string[];
   answerIndex: number;
   explanation: string;
+};
+
+// Local view of the raw data coming from cpsdQuestions.ts
+type ModuleId = "supply-management" | "supplier-diversity";
+
+type RawQuestion = {
+  id: string;
+  module: ModuleId;
+  domain?: string;
+  stem: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
+  // allow extra fields without breaking
+  [key: string]: unknown;
 };
 
 // ===========================
@@ -130,12 +148,11 @@ export const diversityTopics: Topic[] = [
 // ===========================
 
 function mapModuleToExam(module: ModuleId): ExamId {
-  if (module === "supply-management") return "core";
-  return "diversity"; // "supplier-diversity"
+  return module === "supply-management" ? "core" : "diversity";
 }
 
 // Map raw `domain` strings to topic IDs
-function mapDomainToTopicId(exam: ExamId, domain: string): string {
+function mapDomainToTopicId(exam: ExamId, domain?: string): string {
   const key = (domain ?? "").toLowerCase().trim();
 
   if (exam === "core") {
@@ -149,7 +166,7 @@ function mapDomainToTopicId(exam: ExamId, domain: string): string {
 
   // DIVERSITY (Supplier Diversity)
 
-  // 1) Direct domain → topic mappings based on your actual domains
+  // 1) Direct domain → topic mappings (based on your likely domain labels)
 
   // Advocacy & Senior Leadership Influence
   if (
@@ -242,7 +259,9 @@ function mapDomainToTopicId(exam: ExamId, domain: string): string {
 }
 
 // Build the canonical Question[] used by the rest of the app
-export const questions: Question[] = rawQuestions.map((raw) => {
+const typedRawQuestions = rawQuestions as unknown as RawQuestion[];
+
+export const questions: Question[] = typedRawQuestions.map((raw) => {
   const exam = mapModuleToExam(raw.module);
   const topicId = mapDomainToTopicId(exam, raw.domain);
 
