@@ -11274,4 +11274,15008 @@ export const rawQuestions: RawQuestion[] = [
     explanation:
       "Standardisation of effective practices magnifies impact across the function.",
   },
+
+  {
+    "id": "SM-500",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In Category Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-501",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Risk Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-502",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In a complex Contracting initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-503",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Supply Chain Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-504",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Analytics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-505",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In Negotiation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-506",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Cost Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-507",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Performance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-508",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sustainability. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-509",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Governance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-510",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In Continuous Improvement, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-511",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Demand Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-512",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Sourcing Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-513",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Inventory Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-514",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Technology, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-515",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In Ethics & Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-516",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Risk. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-517",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In a complex Contract Law initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-518",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Multi-tier Supply Chain. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-519",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Performance Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-520",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In Sourcing Optimization, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-521",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Logistics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-522",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In a complex Market Analysis initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-523",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Transformation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-524",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Global Sourcing, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-525",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-526",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Development. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-527",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In a complex Category Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-528",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Risk Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-529",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contracting, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-530",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In Supply Chain Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-531",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Analytics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-532",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In a complex Negotiation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-533",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Cost Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-534",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Performance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-535",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In Sustainability, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-536",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Governance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-537",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In a complex Continuous Improvement initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-538",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Demand Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-539",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Sourcing Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-540",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In Inventory Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-541",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Technology. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-542",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In a complex Ethics & Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-543",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Risk. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-544",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contract Law, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-545",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In Multi-tier Supply Chain, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-546",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Performance Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-547",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In a complex Sourcing Optimization initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-548",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Logistics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-549",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Market Analysis, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-550",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In Procurement Transformation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-551",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Global Sourcing. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-552",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In a complex Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-553",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Development. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-554",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Category Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-555",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In Risk Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-556",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contracting. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-557",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Supply Chain Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-558",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Analytics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-559",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Negotiation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-560",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In Cost Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-561",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Performance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-562",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In a complex Sustainability initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-563",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Governance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-564",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Continuous Improvement, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-565",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In Demand Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-566",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-567",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In a complex Inventory Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-568",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Technology. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-569",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Ethics & Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-570",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In Supplier Risk, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-571",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contract Law. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-572",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In a complex Multi-tier Supply Chain initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-573",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Performance Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-574",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sourcing Optimization, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-575",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In Logistics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-576",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Market Analysis. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-577",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Transformation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-578",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Global Sourcing. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-579",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-580",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In Supplier Development, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-581",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Category Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-582",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In a complex Risk Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-583",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contracting. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-584",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Supply Chain Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-585",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In Analytics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-586",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Negotiation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-587",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In a complex Cost Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-588",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Performance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-589",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sustainability, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-590",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In Governance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-591",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Continuous Improvement. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-592",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In a complex Demand Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-593",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-594",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Inventory Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-595",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In Procurement Technology, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-596",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Ethics & Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-597",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Risk initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-598",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contract Law. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-599",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Multi-tier Supply Chain, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-600",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In Performance Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-601",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Optimization. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-602",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In a complex Logistics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-603",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Market Analysis. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-604",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Transformation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-605",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In Global Sourcing, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-606",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-607",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Development initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-608",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Category Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-609",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Risk Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-610",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In Contracting, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-611",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supply Chain Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-612",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In a complex Analytics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-613",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Negotiation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-614",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Cost Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-615",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In Supplier Performance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-616",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sustainability. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-617",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In a complex Governance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-618",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Continuous Improvement. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-619",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Demand Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-620",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In Sourcing Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-621",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Inventory Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-622",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Technology initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-623",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Ethics & Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-624",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Risk, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-625",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In Contract Law, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-626",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Multi-tier Supply Chain. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-627",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In a complex Performance Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-628",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Optimization. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-629",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Logistics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-630",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In Market Analysis, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-631",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Transformation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-632",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In a complex Global Sourcing initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-633",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-634",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Development, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-635",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In Category Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-636",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Risk Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-637",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In a complex Contracting initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-638",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Supply Chain Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-639",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Analytics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-640",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In Negotiation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-641",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Cost Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-642",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Performance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-643",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sustainability. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-644",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Governance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-645",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In Continuous Improvement, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-646",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Demand Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-647",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Sourcing Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-648",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Inventory Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-649",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Technology, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-650",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In Ethics & Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-651",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Risk. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-652",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In a complex Contract Law initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-653",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Multi-tier Supply Chain. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-654",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Performance Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-655",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In Sourcing Optimization, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-656",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Logistics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-657",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In a complex Market Analysis initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-658",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Transformation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-659",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Global Sourcing, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-660",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-661",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Development. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-662",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In a complex Category Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-663",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Risk Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-664",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contracting, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-665",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In Supply Chain Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-666",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Analytics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-667",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In a complex Negotiation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-668",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Cost Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-669",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Performance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-670",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In Sustainability, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-671",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Governance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-672",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In a complex Continuous Improvement initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-673",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Demand Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-674",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Sourcing Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-675",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In Inventory Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-676",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Technology. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-677",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In a complex Ethics & Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-678",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Risk. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-679",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contract Law, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-680",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In Multi-tier Supply Chain, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-681",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Performance Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-682",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In a complex Sourcing Optimization initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-683",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Logistics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-684",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Market Analysis, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-685",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In Procurement Transformation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-686",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Global Sourcing. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-687",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In a complex Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-688",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Development. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-689",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Category Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-690",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In Risk Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-691",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contracting. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-692",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Supply Chain Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-693",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Analytics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-694",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Negotiation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-695",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In Cost Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-696",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Performance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-697",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In a complex Sustainability initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-698",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Governance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-699",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Continuous Improvement, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-700",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In Demand Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-701",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-702",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In a complex Inventory Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-703",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Technology. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-704",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Ethics & Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-705",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In Supplier Risk, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-706",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contract Law. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-707",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In a complex Multi-tier Supply Chain initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-708",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Performance Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-709",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sourcing Optimization, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-710",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In Logistics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-711",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Market Analysis. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-712",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Transformation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-713",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Global Sourcing. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-714",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-715",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In Supplier Development, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-716",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Category Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-717",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In a complex Risk Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-718",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contracting. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-719",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Supply Chain Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-720",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In Analytics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-721",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Negotiation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-722",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In a complex Cost Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-723",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Performance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-724",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sustainability, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-725",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In Governance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-726",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Continuous Improvement. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-727",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In a complex Demand Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-728",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-729",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Inventory Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-730",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In Procurement Technology, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-731",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Ethics & Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-732",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Risk initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-733",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contract Law. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-734",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Multi-tier Supply Chain, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-735",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In Performance Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-736",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Optimization. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-737",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In a complex Logistics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-738",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Market Analysis. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-739",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Transformation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-740",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In Global Sourcing, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-741",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-742",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Development initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-743",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Category Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-744",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Risk Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-745",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In Contracting, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-746",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supply Chain Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-747",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In a complex Analytics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-748",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Negotiation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-749",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Cost Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-750",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In Supplier Performance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-751",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sustainability. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-752",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In a complex Governance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-753",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Continuous Improvement. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-754",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Demand Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-755",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In Sourcing Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-756",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Inventory Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-757",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Technology initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-758",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Ethics & Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-759",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Risk, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-760",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In Contract Law, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-761",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Multi-tier Supply Chain. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-762",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In a complex Performance Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-763",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Optimization. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-764",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Logistics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-765",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In Market Analysis, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-766",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Transformation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-767",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In a complex Global Sourcing initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-768",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-769",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Development, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-770",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In Category Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-771",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Risk Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-772",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In a complex Contracting initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-773",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Supply Chain Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-774",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Analytics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-775",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In Negotiation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-776",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Cost Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-777",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Performance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-778",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sustainability. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-779",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Governance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-780",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In Continuous Improvement, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-781",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Demand Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-782",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Sourcing Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-783",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Inventory Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-784",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Technology, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-785",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In Ethics & Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-786",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Risk. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-787",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In a complex Contract Law initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-788",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Multi-tier Supply Chain. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-789",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Performance Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-790",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In Sourcing Optimization, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-791",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Logistics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-792",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In a complex Market Analysis initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-793",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Transformation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-794",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Global Sourcing, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-795",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-796",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Development. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-797",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In a complex Category Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-798",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Risk Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-799",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contracting, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-800",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In Supply Chain Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-801",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Analytics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-802",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In a complex Negotiation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-803",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Cost Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-804",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Performance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-805",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In Sustainability, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-806",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Governance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-807",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In a complex Continuous Improvement initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-808",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Demand Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-809",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Sourcing Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-810",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In Inventory Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-811",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Technology. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-812",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In a complex Ethics & Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-813",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Risk. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-814",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contract Law, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-815",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In Multi-tier Supply Chain, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-816",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Performance Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-817",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In a complex Sourcing Optimization initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-818",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Logistics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-819",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Market Analysis, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-820",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In Procurement Transformation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-821",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Global Sourcing. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-822",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In a complex Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-823",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Development. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-824",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Category Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-825",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In Risk Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-826",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contracting. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-827",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Supply Chain Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-828",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Analytics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-829",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Negotiation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-830",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In Cost Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-831",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Performance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-832",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In a complex Sustainability initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-833",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Governance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-834",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Continuous Improvement, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-835",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In Demand Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-836",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-837",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In a complex Inventory Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-838",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Technology. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-839",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Ethics & Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-840",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In Supplier Risk, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-841",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contract Law. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-842",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In a complex Multi-tier Supply Chain initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-843",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Performance Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-844",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sourcing Optimization, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-845",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In Logistics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-846",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Market Analysis. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-847",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Transformation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-848",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Global Sourcing. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-849",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-850",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In Supplier Development, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-851",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Category Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-852",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In a complex Risk Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-853",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contracting. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-854",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Supply Chain Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-855",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In Analytics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-856",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Negotiation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-857",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In a complex Cost Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-858",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Performance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-859",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sustainability, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-860",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In Governance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-861",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Continuous Improvement. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-862",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In a complex Demand Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-863",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-864",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Inventory Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-865",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In Procurement Technology, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-866",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Ethics & Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-867",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Risk initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-868",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contract Law. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-869",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Multi-tier Supply Chain, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-870",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In Performance Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-871",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Optimization. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-872",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In a complex Logistics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-873",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Market Analysis. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-874",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Transformation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-875",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In Global Sourcing, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-876",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Compliance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-877",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Development initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-878",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Category Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-879",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Risk Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-880",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In Contracting, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-881",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supply Chain Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-882",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In a complex Analytics initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-883",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Negotiation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-884",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Cost Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-885",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In Supplier Performance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-886",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sustainability. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-887",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In a complex Governance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-888",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Continuous Improvement. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-889",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Demand Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-890",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In Sourcing Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-891",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Inventory Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-892",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Technology initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-893",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Ethics & Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-894",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Risk, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-895",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In Contract Law, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-896",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Multi-tier Supply Chain. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-897",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "In a complex Performance Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-898",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Optimization. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-899",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Logistics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-900",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In Market Analysis, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-901",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Transformation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-902",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "In a complex Global Sourcing initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-903",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Compliance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-904",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Development, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-905",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In Category Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-906",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Risk Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-907",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "In a complex Contracting initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-908",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Supply Chain Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-909",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Analytics, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-910",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In Negotiation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-911",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Cost Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-912",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "In a complex Supplier Performance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-913",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Sustainability. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-914",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Governance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-915",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In Continuous Improvement, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-916",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Demand Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-917",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Sourcing Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-918",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Inventory Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-919",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Procurement Technology, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-920",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In Ethics & Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-921",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Risk. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-922",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "In a complex Contract Law initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-923",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Multi-tier Supply Chain. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-924",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Performance Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-925",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In Sourcing Optimization, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-926",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Logistics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-927",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "In a complex Market Analysis initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-928",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Transformation. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-929",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Global Sourcing, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-930",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In Compliance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-931",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Development. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-932",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "In a complex Category Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-933",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Risk Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-934",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contracting, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-935",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In Supply Chain Strategy, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-936",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Analytics. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-937",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "In a complex Negotiation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-938",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Cost Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-939",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Supplier Performance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-940",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In Sustainability, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-941",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Governance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-942",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "In a complex Continuous Improvement initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-943",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Demand Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-944",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Sourcing Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-945",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In Inventory Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-946",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Procurement Technology. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-947",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "In a complex Ethics & Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-948",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Risk. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-949",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Contract Law, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-950",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In Multi-tier Supply Chain, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-951",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Performance Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-952",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "In a complex Sourcing Optimization initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-953",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Logistics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-954",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Market Analysis, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-955",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In Procurement Transformation, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-956",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Global Sourcing. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-957",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "In a complex Compliance initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-958",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Development. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-959",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Category Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-960",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In Risk Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-961",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contracting. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-962",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "In a complex Supply Chain Strategy initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-963",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Analytics. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-964",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Negotiation, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-965",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In Cost Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-966",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Supplier Performance. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-967",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "In a complex Sustainability initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-968",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Governance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-969",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Continuous Improvement, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-970",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In Demand Management, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-971",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Sourcing Strategy. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-972",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "In a complex Inventory Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-973",
+    "module": "supply-management",
+    "domain": "Procurement Technology",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Procurement Technology. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-974",
+    "module": "supply-management",
+    "domain": "Ethics & Compliance",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Ethics & Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-975",
+    "module": "supply-management",
+    "domain": "Supplier Risk",
+    "difficulty": "medium",
+    "stem": "In Supplier Risk, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-976",
+    "module": "supply-management",
+    "domain": "Contract Law",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Contract Law. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-977",
+    "module": "supply-management",
+    "domain": "Multi-tier Supply Chain",
+    "difficulty": "hard",
+    "stem": "In a complex Multi-tier Supply Chain initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-978",
+    "module": "supply-management",
+    "domain": "Performance Management",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Performance Management. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-979",
+    "module": "supply-management",
+    "domain": "Sourcing Optimization",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sourcing Optimization, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-980",
+    "module": "supply-management",
+    "domain": "Logistics",
+    "difficulty": "hard",
+    "stem": "In Logistics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-981",
+    "module": "supply-management",
+    "domain": "Market Analysis",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Market Analysis. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-982",
+    "module": "supply-management",
+    "domain": "Procurement Transformation",
+    "difficulty": "medium",
+    "stem": "In a complex Procurement Transformation initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-983",
+    "module": "supply-management",
+    "domain": "Global Sourcing",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Global Sourcing. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-984",
+    "module": "supply-management",
+    "domain": "Compliance",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Compliance, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-985",
+    "module": "supply-management",
+    "domain": "Supplier Development",
+    "difficulty": "medium",
+    "stem": "In Supplier Development, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-986",
+    "module": "supply-management",
+    "domain": "Category Management",
+    "difficulty": "hard",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Category Management. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-987",
+    "module": "supply-management",
+    "domain": "Risk Management",
+    "difficulty": "medium",
+    "stem": "In a complex Risk Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-988",
+    "module": "supply-management",
+    "domain": "Contracting",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Contracting. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-989",
+    "module": "supply-management",
+    "domain": "Supply Chain Strategy",
+    "difficulty": "hard",
+    "stem": "During a major disruption affecting Supply Chain Strategy, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-990",
+    "module": "supply-management",
+    "domain": "Analytics",
+    "difficulty": "medium",
+    "stem": "In Analytics, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-991",
+    "module": "supply-management",
+    "domain": "Negotiation",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Negotiation. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-992",
+    "module": "supply-management",
+    "domain": "Cost Management",
+    "difficulty": "hard",
+    "stem": "In a complex Cost Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-993",
+    "module": "supply-management",
+    "domain": "Supplier Performance",
+    "difficulty": "medium",
+    "stem": "Leadership asks you to demonstrate value created through Supplier Performance. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+  {
+    "id": "SM-994",
+    "module": "supply-management",
+    "domain": "Sustainability",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Sustainability, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+  {
+    "id": "SM-995",
+    "module": "supply-management",
+    "domain": "Governance",
+    "difficulty": "hard",
+    "stem": "In Governance, which action best reflects a strategic, rather than purely transactional, approach by supply management?",
+    "options": [
+      "Focusing only on obtaining one-time price discounts",
+      "Aligning sourcing decisions with long-term business objectives and risk considerations",
+      "Running spot buys whenever stakeholders request something",
+      "Allowing end users to select any supplier without review"
+    ],
+    "correctIndex": 1,
+    "explanation": "A strategic approach aligns sourcing with long-term value, risk and performance, not just one-time savings."
+  },
+  {
+    "id": "SM-996",
+    "module": "supply-management",
+    "domain": "Continuous Improvement",
+    "difficulty": "medium",
+    "stem": "A cross-functional team is working on a high-impact initiative related to Continuous Improvement. What is the most effective role for supply management?",
+    "options": [
+      "Join late in the process to negotiate price only",
+      "Co-lead the effort, bringing market insight, risk analysis, and commercial structure",
+      "Stay neutral and avoid influencing stakeholders",
+      "Delegate decisions entirely to the incumbent supplier"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic supply management co-leads and adds insight on markets, risk and commercial design."
+  },
+  {
+    "id": "SM-997",
+    "module": "supply-management",
+    "domain": "Demand Management",
+    "difficulty": "medium",
+    "stem": "In a complex Demand Management initiative, why is it risky to rely only on historic pricing when making decisions?",
+    "options": [
+      "Historic prices are always higher than current market rates",
+      "Historic prices may not reflect current market shifts, risk, capacity, or specification changes",
+      "Suppliers do not track their historic pricing",
+      "Auditors do not allow the use of historic data"
+    ],
+    "correctIndex": 1,
+    "explanation": "Past prices may not reflect new conditions such as inflation, shortages, new specs or risk factors."
+  },
+  {
+    "id": "SM-998",
+    "module": "supply-management",
+    "domain": "Sourcing Strategy",
+    "difficulty": "hard",
+    "stem": "Leadership asks you to demonstrate value created through Sourcing Strategy. Which metric provides the most holistic view?",
+    "options": [
+      "Number of POs raised",
+      "Total cost of ownership impact, including risk reduction and performance improvements",
+      "Number of suppliers invited to RFPs",
+      "Average payment term length"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total cost of ownership including risk and performance gives a fuller view than volume-based metrics."
+  },
+
+  {
+    "id": "SM-999",
+    "module": "supply-management",
+    "domain": "Inventory Management",
+    "difficulty": "medium",
+    "stem": "During a major disruption affecting Inventory Management, what should supply management prioritise first?",
+    "options": [
+      "Renegotiating minor terms in all contracts",
+      "Understanding continuity risks, critical requirements and available alternatives",
+      "Immediately switching all volumes to a new supplier without analysis",
+      "Freezing all communication with suppliers until the disruption ends"
+    ],
+    "correctIndex": 1,
+    "explanation": "Assessing continuity risks, critical needs and alternatives is key before making large changes."
+  },
+
+  {
+    "id": "SD-491",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In the context of Business Case within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-492",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "A team claims that Policy & Governance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-493",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In Data & Reporting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-494",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Certification & Verification efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-495",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "During a review of Inclusive Sourcing, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-496",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In the context of Tier 2 & Subcontracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-497",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "A team claims that Supplier Outreach is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-498",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In Capacity Building, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-499",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Barriers & Bias efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-500",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "During a review of Stakeholder Engagement, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-501",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In the context of Measurement & KPIs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-502",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "A team claims that Technology & Tools is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-503",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In Regulatory & Compliance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-504",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Community Impact efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-505",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "During a review of Executive Sponsorship, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-506",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In the context of Program Design within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-507",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "A team claims that Change Management is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-508",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In Risk & Controls, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-509",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Inclusive Contracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-510",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "During a review of Global vs Local Programs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-511",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In the context of Marketing & Communications within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-512",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "A team claims that Mentorship & Development is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-513",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In Access to Capital, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-514",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Ecosystem Partnerships efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-515",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "During a review of Internal Training, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-516",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In the context of Data Quality within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-517",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "A team claims that Performance Review is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-518",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In Business Case, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-519",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Policy & Governance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-520",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "During a review of Data & Reporting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-521",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In the context of Certification & Verification within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-522",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "A team claims that Inclusive Sourcing is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-523",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In Tier 2 & Subcontracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-524",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Supplier Outreach efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-525",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "During a review of Capacity Building, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-526",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In the context of Barriers & Bias within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-527",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "A team claims that Stakeholder Engagement is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-528",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In Measurement & KPIs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-529",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Technology & Tools efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-530",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "During a review of Regulatory & Compliance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-531",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In the context of Community Impact within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-532",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "A team claims that Executive Sponsorship is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-533",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In Program Design, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-534",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Change Management efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-535",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "During a review of Risk & Controls, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-536",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In the context of Inclusive Contracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-537",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "A team claims that Global vs Local Programs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-538",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In Marketing & Communications, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-539",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Mentorship & Development efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-540",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "During a review of Access to Capital, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-541",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In the context of Ecosystem Partnerships within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-542",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "A team claims that Internal Training is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-543",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In Data Quality, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-544",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Performance Review efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-545",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "During a review of Business Case, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-546",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In the context of Policy & Governance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-547",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "A team claims that Data & Reporting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-548",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In Certification & Verification, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-549",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Inclusive Sourcing efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-550",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "During a review of Tier 2 & Subcontracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-551",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In the context of Supplier Outreach within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-552",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "A team claims that Capacity Building is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-553",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In Barriers & Bias, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-554",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Stakeholder Engagement efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-555",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "During a review of Measurement & KPIs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-556",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In the context of Technology & Tools within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-557",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "A team claims that Regulatory & Compliance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-558",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In Community Impact, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-559",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Executive Sponsorship efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-560",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "During a review of Program Design, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-561",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In the context of Change Management within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-562",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "A team claims that Risk & Controls is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-563",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In Inclusive Contracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-564",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Global vs Local Programs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-565",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "During a review of Marketing & Communications, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-566",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In the context of Mentorship & Development within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-567",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "A team claims that Access to Capital is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-568",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In Ecosystem Partnerships, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-569",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Internal Training efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-570",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "During a review of Data Quality, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-571",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In the context of Performance Review within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-572",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "A team claims that Business Case is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-573",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In Policy & Governance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-574",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data & Reporting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-575",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "During a review of Certification & Verification, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-576",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In the context of Inclusive Sourcing within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-577",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "A team claims that Tier 2 & Subcontracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-578",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In Supplier Outreach, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-579",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Capacity Building efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-580",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "During a review of Barriers & Bias, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-581",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In the context of Stakeholder Engagement within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-582",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "A team claims that Measurement & KPIs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-583",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In Technology & Tools, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-584",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Regulatory & Compliance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-585",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "During a review of Community Impact, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-586",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In the context of Executive Sponsorship within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-587",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "A team claims that Program Design is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-588",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In Change Management, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-589",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Risk & Controls efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-590",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "During a review of Inclusive Contracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-591",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In the context of Global vs Local Programs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-592",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "A team claims that Marketing & Communications is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-593",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In Mentorship & Development, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-594",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Access to Capital efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-595",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "During a review of Ecosystem Partnerships, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-596",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In the context of Internal Training within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-597",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "A team claims that Data Quality is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-598",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In Performance Review, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-599",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Business Case efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-600",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "During a review of Policy & Governance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-601",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In the context of Data & Reporting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-602",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "A team claims that Certification & Verification is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-603",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In Inclusive Sourcing, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-604",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Tier 2 & Subcontracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-605",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "During a review of Supplier Outreach, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-606",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In the context of Capacity Building within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-607",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "A team claims that Barriers & Bias is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-608",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In Stakeholder Engagement, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-609",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Measurement & KPIs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-610",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "During a review of Technology & Tools, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-611",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In the context of Regulatory & Compliance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-612",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "A team claims that Community Impact is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-613",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In Executive Sponsorship, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-614",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Program Design efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-615",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "During a review of Change Management, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-616",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In the context of Risk & Controls within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-617",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "A team claims that Inclusive Contracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-618",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In Global vs Local Programs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-619",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Marketing & Communications efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-620",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "During a review of Mentorship & Development, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-621",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In the context of Access to Capital within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-622",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "A team claims that Ecosystem Partnerships is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-623",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In Internal Training, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-624",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data Quality efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-625",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "During a review of Performance Review, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-626",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In the context of Business Case within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-627",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "A team claims that Policy & Governance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-628",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In Data & Reporting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-629",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Certification & Verification efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-630",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "During a review of Inclusive Sourcing, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-631",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In the context of Tier 2 & Subcontracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-632",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "A team claims that Supplier Outreach is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-633",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In Capacity Building, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-634",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Barriers & Bias efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-635",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "During a review of Stakeholder Engagement, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-636",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In the context of Measurement & KPIs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-637",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "A team claims that Technology & Tools is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-638",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In Regulatory & Compliance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-639",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Community Impact efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-640",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "During a review of Executive Sponsorship, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-641",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In the context of Program Design within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-642",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "A team claims that Change Management is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-643",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In Risk & Controls, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-644",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Inclusive Contracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-645",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "During a review of Global vs Local Programs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-646",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In the context of Marketing & Communications within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-647",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "A team claims that Mentorship & Development is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-648",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In Access to Capital, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-649",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Ecosystem Partnerships efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-650",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "During a review of Internal Training, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-651",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In the context of Data Quality within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-652",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "A team claims that Performance Review is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-653",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In Business Case, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-654",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Policy & Governance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-655",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "During a review of Data & Reporting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-656",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In the context of Certification & Verification within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-657",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "A team claims that Inclusive Sourcing is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-658",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In Tier 2 & Subcontracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-659",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Supplier Outreach efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-660",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "During a review of Capacity Building, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-661",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In the context of Barriers & Bias within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-662",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "A team claims that Stakeholder Engagement is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-663",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In Measurement & KPIs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-664",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Technology & Tools efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-665",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "During a review of Regulatory & Compliance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-666",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In the context of Community Impact within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-667",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "A team claims that Executive Sponsorship is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-668",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In Program Design, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-669",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Change Management efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-670",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "During a review of Risk & Controls, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-671",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In the context of Inclusive Contracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-672",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "A team claims that Global vs Local Programs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-673",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In Marketing & Communications, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-674",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Mentorship & Development efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-675",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "During a review of Access to Capital, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-676",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In the context of Ecosystem Partnerships within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-677",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "A team claims that Internal Training is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-678",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In Data Quality, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-679",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Performance Review efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-680",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "During a review of Business Case, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-681",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In the context of Policy & Governance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-682",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "A team claims that Data & Reporting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-683",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In Certification & Verification, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-684",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Inclusive Sourcing efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-685",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "During a review of Tier 2 & Subcontracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-686",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In the context of Supplier Outreach within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-687",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "A team claims that Capacity Building is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-688",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In Barriers & Bias, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-689",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Stakeholder Engagement efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-690",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "During a review of Measurement & KPIs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-691",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In the context of Technology & Tools within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-692",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "A team claims that Regulatory & Compliance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-693",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In Community Impact, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-694",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Executive Sponsorship efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-695",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "During a review of Program Design, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-696",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In the context of Change Management within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-697",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "A team claims that Risk & Controls is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-698",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In Inclusive Contracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-699",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Global vs Local Programs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-700",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "During a review of Marketing & Communications, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-701",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In the context of Mentorship & Development within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-702",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "A team claims that Access to Capital is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-703",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In Ecosystem Partnerships, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-704",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Internal Training efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-705",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "During a review of Data Quality, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-706",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In the context of Performance Review within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-707",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "A team claims that Business Case is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-708",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In Policy & Governance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-709",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data & Reporting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-710",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "During a review of Certification & Verification, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-711",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In the context of Inclusive Sourcing within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-712",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "A team claims that Tier 2 & Subcontracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-713",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In Supplier Outreach, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-714",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Capacity Building efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-715",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "During a review of Barriers & Bias, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-716",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In the context of Stakeholder Engagement within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-717",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "A team claims that Measurement & KPIs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-718",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In Technology & Tools, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-719",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Regulatory & Compliance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-720",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "During a review of Community Impact, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-721",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In the context of Executive Sponsorship within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-722",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "A team claims that Program Design is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-723",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In Change Management, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-724",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Risk & Controls efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-725",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "During a review of Inclusive Contracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-726",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In the context of Global vs Local Programs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-727",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "A team claims that Marketing & Communications is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-728",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In Mentorship & Development, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-729",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Access to Capital efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-730",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "During a review of Ecosystem Partnerships, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-731",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In the context of Internal Training within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-732",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "A team claims that Data Quality is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-733",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In Performance Review, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-734",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Business Case efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-735",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "During a review of Policy & Governance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-736",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In the context of Data & Reporting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-737",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "A team claims that Certification & Verification is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-738",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In Inclusive Sourcing, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-739",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Tier 2 & Subcontracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-740",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "During a review of Supplier Outreach, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-741",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In the context of Capacity Building within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-742",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "A team claims that Barriers & Bias is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-743",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In Stakeholder Engagement, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-744",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Measurement & KPIs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-745",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "During a review of Technology & Tools, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-746",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In the context of Regulatory & Compliance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-747",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "A team claims that Community Impact is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-748",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In Executive Sponsorship, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-749",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Program Design efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-750",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "During a review of Change Management, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-751",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In the context of Risk & Controls within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-752",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "A team claims that Inclusive Contracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-753",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In Global vs Local Programs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-754",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Marketing & Communications efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-755",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "During a review of Mentorship & Development, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-756",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In the context of Access to Capital within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-757",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "A team claims that Ecosystem Partnerships is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-758",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In Internal Training, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-759",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data Quality efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-760",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "During a review of Performance Review, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-761",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In the context of Business Case within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-762",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "A team claims that Policy & Governance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-763",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In Data & Reporting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-764",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Certification & Verification efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-765",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "During a review of Inclusive Sourcing, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-766",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In the context of Tier 2 & Subcontracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-767",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "A team claims that Supplier Outreach is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-768",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In Capacity Building, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-769",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Barriers & Bias efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-770",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "During a review of Stakeholder Engagement, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-771",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In the context of Measurement & KPIs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-772",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "A team claims that Technology & Tools is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-773",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In Regulatory & Compliance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-774",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Community Impact efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-775",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "During a review of Executive Sponsorship, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-776",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In the context of Program Design within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-777",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "A team claims that Change Management is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-778",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In Risk & Controls, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-779",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Inclusive Contracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-780",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "During a review of Global vs Local Programs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-781",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In the context of Marketing & Communications within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-782",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "A team claims that Mentorship & Development is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-783",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In Access to Capital, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-784",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Ecosystem Partnerships efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-785",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "During a review of Internal Training, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-786",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In the context of Data Quality within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-787",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "A team claims that Performance Review is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-788",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In Business Case, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-789",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Policy & Governance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-790",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "During a review of Data & Reporting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-791",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In the context of Certification & Verification within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-792",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "A team claims that Inclusive Sourcing is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-793",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In Tier 2 & Subcontracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-794",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Supplier Outreach efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-795",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "During a review of Capacity Building, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-796",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In the context of Barriers & Bias within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-797",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "A team claims that Stakeholder Engagement is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-798",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In Measurement & KPIs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-799",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Technology & Tools efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-800",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "During a review of Regulatory & Compliance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-801",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In the context of Community Impact within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-802",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "A team claims that Executive Sponsorship is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-803",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In Program Design, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-804",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Change Management efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-805",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "During a review of Risk & Controls, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-806",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In the context of Inclusive Contracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-807",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "A team claims that Global vs Local Programs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-808",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In Marketing & Communications, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-809",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Mentorship & Development efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-810",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "During a review of Access to Capital, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-811",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In the context of Ecosystem Partnerships within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-812",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "A team claims that Internal Training is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-813",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In Data Quality, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-814",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Performance Review efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-815",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "During a review of Business Case, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-816",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In the context of Policy & Governance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-817",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "A team claims that Data & Reporting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-818",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In Certification & Verification, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-819",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Inclusive Sourcing efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-820",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "During a review of Tier 2 & Subcontracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-821",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In the context of Supplier Outreach within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-822",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "A team claims that Capacity Building is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-823",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In Barriers & Bias, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-824",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Stakeholder Engagement efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-825",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "During a review of Measurement & KPIs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-826",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In the context of Technology & Tools within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-827",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "A team claims that Regulatory & Compliance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-828",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In Community Impact, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-829",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Executive Sponsorship efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-830",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "During a review of Program Design, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-831",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In the context of Change Management within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-832",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "A team claims that Risk & Controls is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-833",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In Inclusive Contracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-834",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Global vs Local Programs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-835",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "During a review of Marketing & Communications, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-836",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In the context of Mentorship & Development within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-837",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "A team claims that Access to Capital is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-838",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In Ecosystem Partnerships, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-839",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Internal Training efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-840",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "During a review of Data Quality, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-841",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In the context of Performance Review within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-842",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "A team claims that Business Case is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-843",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In Policy & Governance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-844",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data & Reporting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-845",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "During a review of Certification & Verification, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-846",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In the context of Inclusive Sourcing within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-847",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "A team claims that Tier 2 & Subcontracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-848",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In Supplier Outreach, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-849",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Capacity Building efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-850",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "During a review of Barriers & Bias, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-851",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In the context of Stakeholder Engagement within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-852",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "A team claims that Measurement & KPIs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-853",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In Technology & Tools, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-854",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Regulatory & Compliance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-855",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "During a review of Community Impact, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-856",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In the context of Executive Sponsorship within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-857",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "A team claims that Program Design is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-858",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In Change Management, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-859",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Risk & Controls efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-860",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "During a review of Inclusive Contracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-861",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In the context of Global vs Local Programs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-862",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "A team claims that Marketing & Communications is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-863",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In Mentorship & Development, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-864",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Access to Capital efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-865",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "During a review of Ecosystem Partnerships, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-866",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In the context of Internal Training within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-867",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "A team claims that Data Quality is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-868",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In Performance Review, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-869",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Business Case efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-870",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "During a review of Policy & Governance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-871",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In the context of Data & Reporting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-872",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "A team claims that Certification & Verification is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-873",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In Inclusive Sourcing, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-874",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Tier 2 & Subcontracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-875",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "During a review of Supplier Outreach, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-876",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In the context of Capacity Building within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-877",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "A team claims that Barriers & Bias is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-878",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In Stakeholder Engagement, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-879",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Measurement & KPIs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-880",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "During a review of Technology & Tools, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-881",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In the context of Regulatory & Compliance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-882",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "A team claims that Community Impact is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-883",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "In Executive Sponsorship, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-884",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Program Design efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-885",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "During a review of Change Management, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-886",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In the context of Risk & Controls within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-887",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "A team claims that Inclusive Contracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-888",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "In Global vs Local Programs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-889",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Marketing & Communications efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-890",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "During a review of Mentorship & Development, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-891",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In the context of Access to Capital within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-892",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "A team claims that Ecosystem Partnerships is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-893",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "In Internal Training, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-894",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data Quality efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-895",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "During a review of Performance Review, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-896",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In the context of Business Case within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-897",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "A team claims that Policy & Governance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-898",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "In Data & Reporting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-899",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Certification & Verification efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-900",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "During a review of Inclusive Sourcing, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-901",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In the context of Tier 2 & Subcontracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-902",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "A team claims that Supplier Outreach is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-903",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "In Capacity Building, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-904",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Barriers & Bias efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-905",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "During a review of Stakeholder Engagement, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-906",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In the context of Measurement & KPIs within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-907",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "A team claims that Technology & Tools is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-908",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "In Regulatory & Compliance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-909",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Community Impact efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-910",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "During a review of Executive Sponsorship, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-911",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In the context of Program Design within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-912",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "A team claims that Change Management is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-913",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "In Risk & Controls, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-914",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Inclusive Contracting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-915",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "During a review of Global vs Local Programs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-916",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In the context of Marketing & Communications within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-917",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "A team claims that Mentorship & Development is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-918",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "In Access to Capital, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-919",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Ecosystem Partnerships efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-920",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "During a review of Internal Training, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-921",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In the context of Data Quality within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-922",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "A team claims that Performance Review is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-923",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "In Business Case, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-924",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Policy & Governance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-925",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "During a review of Data & Reporting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-926",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In the context of Certification & Verification within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-927",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "A team claims that Inclusive Sourcing is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-928",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "In Tier 2 & Subcontracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-929",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Supplier Outreach efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-930",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "During a review of Capacity Building, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-931",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In the context of Barriers & Bias within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-932",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "A team claims that Stakeholder Engagement is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-933",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "In Measurement & KPIs, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-934",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Technology & Tools efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-935",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "During a review of Regulatory & Compliance, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-936",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In the context of Community Impact within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-937",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "A team claims that Executive Sponsorship is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-938",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "In Program Design, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-939",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Change Management efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-940",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "During a review of Risk & Controls, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-941",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In the context of Inclusive Contracting within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-942",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "A team claims that Global vs Local Programs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-943",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "In Marketing & Communications, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-944",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Mentorship & Development efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-945",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "During a review of Access to Capital, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-946",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In the context of Ecosystem Partnerships within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-947",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "A team claims that Internal Training is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-948",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "In Data Quality, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-949",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Performance Review efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-950",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "During a review of Business Case, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-951",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In the context of Policy & Governance within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-952",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "A team claims that Data & Reporting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-953",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "In Certification & Verification, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-954",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Inclusive Sourcing efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-955",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "During a review of Tier 2 & Subcontracting, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-956",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In the context of Supplier Outreach within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-957",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "A team claims that Capacity Building is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-958",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "In Barriers & Bias, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-959",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Stakeholder Engagement efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-960",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "During a review of Measurement & KPIs, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-961",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In the context of Technology & Tools within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-962",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "A team claims that Regulatory & Compliance is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-963",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "In Community Impact, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-964",
+    "module": "supplier-diversity",
+    "domain": "Executive Sponsorship",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Executive Sponsorship efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-965",
+    "module": "supplier-diversity",
+    "domain": "Program Design",
+    "difficulty": "hard",
+    "stem": "During a review of Program Design, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-966",
+    "module": "supplier-diversity",
+    "domain": "Change Management",
+    "difficulty": "medium",
+    "stem": "In the context of Change Management within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-967",
+    "module": "supplier-diversity",
+    "domain": "Risk & Controls",
+    "difficulty": "medium",
+    "stem": "A team claims that Risk & Controls is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-968",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Contracting",
+    "difficulty": "hard",
+    "stem": "In Inclusive Contracting, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-969",
+    "module": "supplier-diversity",
+    "domain": "Global vs Local Programs",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Global vs Local Programs efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-970",
+    "module": "supplier-diversity",
+    "domain": "Marketing & Communications",
+    "difficulty": "medium",
+    "stem": "During a review of Marketing & Communications, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-971",
+    "module": "supplier-diversity",
+    "domain": "Mentorship & Development",
+    "difficulty": "hard",
+    "stem": "In the context of Mentorship & Development within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-972",
+    "module": "supplier-diversity",
+    "domain": "Access to Capital",
+    "difficulty": "medium",
+    "stem": "A team claims that Access to Capital is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-973",
+    "module": "supplier-diversity",
+    "domain": "Ecosystem Partnerships",
+    "difficulty": "medium",
+    "stem": "In Ecosystem Partnerships, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-974",
+    "module": "supplier-diversity",
+    "domain": "Internal Training",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Internal Training efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-975",
+    "module": "supplier-diversity",
+    "domain": "Data Quality",
+    "difficulty": "medium",
+    "stem": "During a review of Data Quality, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-976",
+    "module": "supplier-diversity",
+    "domain": "Performance Review",
+    "difficulty": "medium",
+    "stem": "In the context of Performance Review within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-977",
+    "module": "supplier-diversity",
+    "domain": "Business Case",
+    "difficulty": "hard",
+    "stem": "A team claims that Business Case is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-978",
+    "module": "supplier-diversity",
+    "domain": "Policy & Governance",
+    "difficulty": "medium",
+    "stem": "In Policy & Governance, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-979",
+    "module": "supplier-diversity",
+    "domain": "Data & Reporting",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Data & Reporting efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-980",
+    "module": "supplier-diversity",
+    "domain": "Certification & Verification",
+    "difficulty": "hard",
+    "stem": "During a review of Certification & Verification, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-981",
+    "module": "supplier-diversity",
+    "domain": "Inclusive Sourcing",
+    "difficulty": "medium",
+    "stem": "In the context of Inclusive Sourcing within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-982",
+    "module": "supplier-diversity",
+    "domain": "Tier 2 & Subcontracting",
+    "difficulty": "medium",
+    "stem": "A team claims that Tier 2 & Subcontracting is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-983",
+    "module": "supplier-diversity",
+    "domain": "Supplier Outreach",
+    "difficulty": "hard",
+    "stem": "In Supplier Outreach, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-984",
+    "module": "supplier-diversity",
+    "domain": "Capacity Building",
+    "difficulty": "medium",
+    "stem": "Leadership wants to understand if Capacity Building efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-985",
+    "module": "supplier-diversity",
+    "domain": "Barriers & Bias",
+    "difficulty": "medium",
+    "stem": "During a review of Barriers & Bias, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  },
+  {
+    "id": "SD-986",
+    "module": "supplier-diversity",
+    "domain": "Stakeholder Engagement",
+    "difficulty": "hard",
+    "stem": "In the context of Stakeholder Engagement within a supplier diversity program, what is the most strategic objective?",
+    "options": [
+      "Meeting a short-term numerical target only",
+      "Embedding diverse suppliers into core value-driving spend categories",
+      "Restricting diverse suppliers to low-risk, low-value pilot work only",
+      "Keeping the program separate from enterprise sourcing strategies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strategic programs integrate diverse suppliers into core spend, not only side or token spend."
+  },
+  {
+    "id": "SD-987",
+    "module": "supplier-diversity",
+    "domain": "Measurement & KPIs",
+    "difficulty": "medium",
+    "stem": "A team claims that Measurement & KPIs is 'nice to have' but not linked to business outcomes. How should you respond?",
+    "options": [
+      "Agree and reduce program scope",
+      "Show data and case studies connecting diverse suppliers to innovation, resilience and market growth",
+      "Explain that supplier diversity is only about compliance",
+      "Move all diverse supplier work to charity budgets"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linking supplier diversity to innovation, resilience and growth shows its business value."
+  },
+  {
+    "id": "SD-988",
+    "module": "supplier-diversity",
+    "domain": "Technology & Tools",
+    "difficulty": "medium",
+    "stem": "In Technology & Tools, which practice best reduces barriers that keep small or diverse suppliers from competing?",
+    "options": [
+      "Requiring very high revenue thresholds for all events",
+      "Designing right-sized requirements, timelines and qualification criteria",
+      "Mandating global insurance levels for every opportunity",
+      "Using only large incumbent distributors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Right-sized requirements and timelines make participation feasible for smaller firms."
+  },
+  {
+    "id": "SD-989",
+    "module": "supplier-diversity",
+    "domain": "Regulatory & Compliance",
+    "difficulty": "hard",
+    "stem": "Leadership wants to understand if Regulatory & Compliance efforts are effective. What should you prioritise?",
+    "options": [
+      "Only tracking the number of diverse suppliers in the database",
+      "Measuring influence on addressable spend, awards and long-term performance",
+      "Reporting only anecdotal success stories",
+      "Focusing solely on Tier 2 reporting volume"
+    ],
+    "correctIndex": 1,
+    "explanation": "Effectiveness is shown by impact on spend, awards and performance, not only counts or anecdotes."
+  },
+  {
+    "id": "SD-990",
+    "module": "supplier-diversity",
+    "domain": "Community Impact",
+    "difficulty": "medium",
+    "stem": "During a review of Community Impact, you notice that a few prime suppliers control most of the Tier 2 reporting. What is a prudent next step?",
+    "options": [
+      "Stop Tier 2 reporting entirely",
+      "Assess whether reporting reflects genuine economic opportunity for diverse firms",
+      "Assume the numbers are accurate because they are high",
+      "Move all spend to a single new diverse supplier immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tier 2 figures should be tested to confirm they reflect real, sustainable opportunity."
+  }
+
 ];
