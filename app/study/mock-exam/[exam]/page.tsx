@@ -1,28 +1,22 @@
 import { Suspense } from "react";
-import { getQuestionsForTopic, getTopicsForExam, coreQuestions, diversityQuestions } from "../../../lib/questions";
+import {
+  generateMockExam,
+  type ExamId,
+} from "../../../lib/questions";
 import MockExamQuizClient from "./client";
 
 type Props = {
-  params: Promise<{ exam: string }>;
+  params: Promise<{ exam: ExamId }>;
 };
 
-export default async function MockExamQuizPage({ params }: Props) {
-  const { exam } = await params;
-  const examType = exam === "diversity" ? "diversity" : "core";
+export default async function MockExamPage({ params }: Props) {
+  const { exam } = await params; // "core" or "diversity"
 
-  // Get all questions for the exam
-  const allQuestions = examType === "diversity" ? diversityQuestions : coreQuestions;
-
-  // Shuffle and select 75 questions
-  const shuffled = [...allQuestions].sort(() => Math.random() - 0.5);
-  const selectedQuestions = shuffled.slice(0, Math.min(75, shuffled.length));
+  const questions = generateMockExam(exam); // 150 Q with correct blueprint for diversity
 
   return (
     <Suspense fallback={<div className="min-h-screen bg-slate-950" />}>
-      <MockExamQuizClient
-        exam={examType}
-        questions={selectedQuestions}
-      />
+      <MockExamQuizClient exam={exam} questions={questions} />
     </Suspense>
   );
 }

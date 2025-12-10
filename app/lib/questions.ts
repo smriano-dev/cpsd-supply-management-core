@@ -1,4 +1,4 @@
-// lib/questions.ts
+// app/lib/questions.ts
 // Central place for all exams, topics and questions
 
 import { rawQuestions } from "@/app/data/cpsdQuestions";
@@ -33,6 +33,7 @@ type RawQuestion = {
   id: string;
   module: ModuleId;
   domain?: string;
+  difficulty?: "easy" | "medium" | "hard" | string;
   stem: string;
   options: string[];
   correctIndex: number;
@@ -43,13 +44,14 @@ type RawQuestion = {
 
 // ===========================
 // SUPPLY MANAGEMENT CORE
+// (you can expand these later if you want a CPSM-style core)
 // ===========================
 
 export const coreTopics: Topic[] = [
   {
     id: "core-role",
     label: "Role of Supply Management",
-    description: "How supply management supports organizational goals.",
+    description: "How supply management supports organisational goals.",
     exam: "core",
   },
   {
@@ -68,77 +70,91 @@ export const coreTopics: Topic[] = [
 
 // ===========================
 // SUPPLIER DIVERSITY MODULE
+// Aligned with ISM CPSD sections
 // ===========================
 
 export const diversityTopics: Topic[] = [
   {
-    id: "businessCase",
-    label: "Business Case & Executive Support",
+    id: "businessCaseExecSupport",
+    label: "Developing Business Case / Executive Support",
     description:
-      "History, societal drivers, ROI, and building executive-level buy-in.",
+      "History, societal drivers, ROI, value proposition and executive buy-in.",
     exam: "diversity",
   },
   {
-    id: "programStrategy",
-    label: "Program Development & Strategy",
+    id: "programDevelopment",
+    label: "Developing a Supplier Diversity Program",
     description:
       "Designing, integrating and governing a supplier diversity program.",
     exam: "diversity",
   },
   {
-    id: "supplierQualification",
-    label: "Supplier Qualification & Certification",
-    description:
-      "Certification, referrals, capability evaluation and qualification.",
+    id: "projectManagement",
+    label: "Project Management for SD Professionals",
+    description: "Project planning, execution and change management for SD.",
     exam: "diversity",
   },
   {
-    id: "dataCapture",
-    label: "Capturing Diversity Data",
+    id: "internalStakeholders",
+    label: "Influencing & Partnering with Internal Stakeholders",
     description:
-      "Building data structures, validation and reporting foundations.",
+      "Stakeholder mapping, engagement, communications and change adoption.",
     exam: "diversity",
   },
   {
-    id: "advocacy",
-    label: "Advocacy & Senior Leadership Influence",
+    id: "certificationProcess",
+    label: "Diverse Supplier Certification Process",
     description:
-      "Positioning, storytelling and engagement with executives and stakeholders.",
+      "Certification bodies, criteria, data capture and validation processes.",
     exam: "diversity",
   },
   {
-    id: "globalLandscape",
-    label: "Global Certification Landscape",
+    id: "qualificationProcess",
+    label: "Diverse Supplier Qualification Process",
     description:
-      "Key certifying bodies and how they support diverse supplier growth.",
+      "Capability evaluation, risk review and onboarding of diverse suppliers.",
     exam: "diversity",
   },
   {
-    id: "outreach",
-    label: "Outreach & Opportunity Fairs",
+    id: "developingSuppliers",
+    label: "Developing Diverse Suppliers",
     description:
-      "Matchmaking events, outreach strategies and sourcing team engagement.",
+      "Supplier development, mentoring, education and capacity building.",
     exam: "diversity",
   },
   {
-    id: "reporting",
-    label: "Reporting & Metrics",
+    id: "supplierRelationships",
+    label: "Managing Relationships with Diverse Suppliers",
     description:
-      "Tier 1 / Tier 2, spend accuracy, KPIs and performance dashboards.",
+      "SRM, performance management and long-term relationship building.",
     exam: "diversity",
   },
   {
-    id: "integration",
-    label: "Integration into Sourcing",
+    id: "financeBudgeting",
+    label: "Financing & Budgeting",
     description:
-      "Embedding supplier diversity into sourcing and category management.",
+      "Budgeting for SD programs, business cases, funding and incentives.",
     exam: "diversity",
   },
   {
-    id: "riskCompliance",
-    label: "Risk, Compliance & Policy",
+    id: "metricsReporting",
+    label: "Establishing Metrics & Reporting",
     description:
-      "Legal frameworks, risks of non-compliance and policy design.",
+      "Tier 1 / Tier 2, analytics, KPIs, dashboards and executive reporting.",
+    exam: "diversity",
+  },
+  {
+    id: "advocacyOutreach",
+    label: "Advocacy & Market Outreach",
+    description:
+      "Market outreach, events, ecosystem partnerships and storytelling.",
+    exam: "diversity",
+  },
+  {
+    id: "sustainabilityEthics",
+    label: "Sustainability, Social Responsibility & Ethics",
+    description:
+      "Ethical practice, ESG, inclusive policies and responsible sourcing.",
     exam: "diversity",
   },
 ];
@@ -155,8 +171,8 @@ function mapModuleToExam(module: ModuleId): ExamId {
 function mapDomainToTopicId(exam: ExamId, domain?: string): string {
   const key = (domain ?? "").toLowerCase().trim();
 
+  // CORE (Supply Management)
   if (exam === "core") {
-    // CORE (Supply Management)
     if (key.includes("strategy") || key.includes("category"))
       return "core-strategy";
     if (key.includes("sourcing") || key.includes("rfp") || key.includes("rfq"))
@@ -164,70 +180,58 @@ function mapDomainToTopicId(exam: ExamId, domain?: string): string {
     return "core-role"; // default for core
   }
 
-  // DIVERSITY (Supplier Diversity)
+  // DIVERSITY (Supplier Diversity) – map to CPSD sections
 
-  // 1) Direct domain → topic mappings (based on your likely domain labels)
+  // 1) Very specific domain labels you already use
+  // Feel free to tweak these if you change the `domain` values in cpsdQuestions.ts
 
-  // Advocacy & Senior Leadership Influence
+  // Metrics & reporting
   if (
-    [
-      "executive communication",
-      "stakeholder engagement",
-      "stakeholders",
-      "governance",
-      "governance & legacy",
-      "foundations",
-      "economic impact",
-      "esg & impact",
-      "impact",
-      "impact storytelling",
-      "training",
-      "training & culture",
-      "supplier experience",
-      "myths",
-    ].includes(key)
+    ["data & reporting", "analytics", "kpis", "metrics", "reporting"].includes(
+      key
+    )
   ) {
-    return "advocacy";
+    return "metricsReporting";
   }
 
-  // Global Certification Landscape
-  if (
-    [
-      "regulatory context",
-      "ecosystem partnerships",
-      "governance & legacy",
-    ].includes(key)
-  ) {
-    return "globalLandscape";
-  }
-
-  // Outreach & Opportunity Fairs
+  // Supplier development / Tier-2 / ecosystem partners
   if (
     [
       "supplier development",
+      "developing suppliers",
       "tier-2",
       "ecosystem partnerships",
     ].includes(key)
   ) {
-    return "outreach";
+    return "developingSuppliers";
   }
 
-  // Reporting & Metrics
+  // Governance / legacy / ecosystem = program development
+  if (["governance & legacy", "foundations"].includes(key)) {
+    return "programDevelopment";
+  }
+
+  // Stakeholders, training & culture, myths, supplier experience = internal stakeholders / advocacy
   if (
     [
-      "data & reporting",
-      "analytics",
-      "kpis",
+      "stakeholder engagement",
+      "stakeholders",
+      "training",
+      "training & culture",
+      "supplier experience",
     ].includes(key)
   ) {
-    return "reporting";
+    return "internalStakeholders";
+  }
+  if (["myths", "economic impact", "impact storytelling"].includes(key)) {
+    return "businessCaseExecSupport";
   }
 
-  // Integration into Sourcing
+  // Technology / sourcing / category / contracting / continuous improvement = integration + metrics
   if (
     [
-      "sourcing",
       "sourcing process",
+      "sourcing",
       "category",
       "category management",
       "technology",
@@ -236,26 +240,68 @@ function mapDomainToTopicId(exam: ExamId, domain?: string): string {
       "continuous improvement",
     ].includes(key)
   ) {
-    return "integration";
+    return "programDevelopment";
   }
 
-  // 2) Fallback substring rules
-  if (key.includes("business") || key.includes("case")) return "businessCase";
-  if (key.includes("strategy") || key.includes("program"))
-    return "programStrategy";
-  if (key.includes("qualif") || key.includes("certif"))
-    return "supplierQualification";
-  if (key.includes("data")) return "dataCapture";
-  if (key.includes("advoc")) return "advocacy";
-  if (key.includes("global")) return "globalLandscape";
-  if (key.includes("outreach") || key.includes("fair")) return "outreach";
-  if (key.includes("report")) return "reporting";
-  if (key.includes("integrat")) return "integration";
-  if (key.includes("risk") || key.includes("compliance"))
-    return "riskCompliance";
+  // Regulatory context / ecosystem partnerships = certification + advocacy
+  if (["regulatory context"].includes(key)) {
+    return "certificationProcess";
+  }
+
+  // 2) Fallback substring rules (more generic)
+
+  if (key.includes("business case") || key.includes("roi") || key.includes("executive"))
+    return "businessCaseExecSupport";
+
+  if (key.includes("program") || key.includes("strategy") || key.includes("governance"))
+    return "programDevelopment";
+
+  if (key.includes("project"))
+    return "projectManagement";
+
+  if (key.includes("stakeholder") || key.includes("internal"))
+    return "internalStakeholders";
+
+  if (key.includes("certif"))
+    return "certificationProcess";
+
+  if (key.includes("qualif"))
+    return "qualificationProcess";
+
+  if (
+    key.includes("developing") ||
+    key.includes("supplier development") ||
+    key.includes("capacity") ||
+    key.includes("mentoring")
+  )
+    return "developingSuppliers";
+
+  if (
+    key.includes("relationship") ||
+    key.includes("srm") ||
+    key.includes("relationship management")
+  )
+    return "supplierRelationships";
+
+  if (key.includes("finance") || key.includes("budget"))
+    return "financeBudgeting";
+
+  if (key.includes("metric") || key.includes("kpi") || key.includes("report"))
+    return "metricsReporting";
+
+  if (key.includes("advoc") || key.includes("outreach") || key.includes("market"))
+    return "advocacyOutreach";
+
+  if (
+    key.includes("sustain") ||
+    key.includes("ethic") ||
+    key.includes("esg") ||
+    key.includes("social responsibility")
+  )
+    return "sustainabilityEthics";
 
   // 3) Last resort default
-  return "businessCase";
+  return "businessCaseExecSupport";
 }
 
 // Build the canonical Question[] used by the rest of the app
@@ -263,7 +309,7 @@ const typedRawQuestions = rawQuestions as unknown as RawQuestion[];
 
 export const questions: Question[] = typedRawQuestions.map((raw) => {
   const exam = mapModuleToExam(raw.module);
-  const topicId = mapDomainToTopicId(exam, raw.domain);
+  const topicId = mapDomainToTopicId(exam, typeof raw.domain === "string" ? raw.domain : undefined);
 
   return {
     id: raw.id,
@@ -272,10 +318,10 @@ export const questions: Question[] = typedRawQuestions.map((raw) => {
     stem: raw.stem,
     options: raw.options,
     answerIndex: raw.correctIndex,
-    explanation: raw.explanation,
+    explanation: raw.explanation ?? "",
   };
 });
- 
+
 // Keep backwards compatibility: provide coreQuestions and diversityQuestions
 export const coreQuestions: Question[] = questions.filter(
   (q) => q.exam === "core"
@@ -304,13 +350,138 @@ export function getQuestionsForTopic(
   );
 }
 
+// Study mode: random subset per topic
 export function getRandomQuestionsForTopic(
   exam: ExamId,
   topicId: string,
   count: number = 50
 ): Question[] {
   const all = getQuestionsForTopic(exam, topicId);
-  // Simple shuffle
-  const shuffled = [...all].sort(() => Math.random() - 0.5);
-  return shuffled.slice(0, Math.min(count, all.length));
+  const shuffled = shuffleArray(all);
+  const subset = shuffled.slice(0, Math.min(count, all.length));
+  return shuffleOptionsForQuestions(subset);
+}
+
+// Generic shuffle
+function shuffleArray<T>(array: T[]): T[] {
+  const copy = [...array];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+// Shuffle options for each question while keeping the correct answer index aligned
+export function shuffleOptionsForQuestions(questions: Question[]): Question[] {
+  return questions.map((q) => {
+    const indices = q.options.map((_, idx) => idx);
+    const shuffledIndices = shuffleArray(indices);
+    const shuffledOptions = shuffledIndices.map((i) => q.options[i]);
+    const newAnswerIndex = shuffledIndices.indexOf(q.answerIndex);
+
+    return {
+      ...q,
+      options: shuffledOptions,
+      answerIndex: newAnswerIndex,
+    };
+  });
+}
+
+// ===========================
+// MOCK EXAM GENERATION
+// ===========================
+
+// Official CPSD section blueprint for 150-question exam
+const diversityExamBlueprint: Record<string, number> = {
+  businessCaseExecSupport: 16,
+  programDevelopment: 27,
+  projectManagement: 3,
+  internalStakeholders: 16,
+  certificationProcess: 2,
+  qualificationProcess: 12,
+  developingSuppliers: 8,
+  supplierRelationships: 13,
+  financeBudgeting: 10,
+  metricsReporting: 15,
+  advocacyOutreach: 16,
+  sustainabilityEthics: 12,
+};
+
+export function generateMockExam(exam: ExamId): Question[] {
+  if (exam === "diversity") {
+    let examQuestions: Question[] = [];
+
+    for (const [topicId, count] of Object.entries(diversityExamBlueprint)) {
+      const topicQuestions = getQuestionsForTopic(exam, topicId);
+      const shuffledTopic = shuffleArray(topicQuestions);
+      examQuestions.push(
+        ...shuffledTopic.slice(0, Math.min(count, shuffledTopic.length))
+      );
+    }
+
+    // Shuffle exam order and options inside each question
+    return shuffleOptionsForQuestions(shuffleArray(examQuestions));
+  }
+
+  // For core, keep it simple: up to 150 random core questions
+  const shuffledCore = shuffleArray(coreQuestions);
+  const subset = shuffledCore.slice(0, Math.min(150, shuffledCore.length));
+  return shuffleOptionsForQuestions(subset);
+}
+
+// ===========================
+// SCORING (100–600 scale)
+// ===========================
+
+export type ExamScore = {
+  exam: ExamId;
+  totalQuestions: number;
+  correct: number;
+  rawPercent: number;
+  scaledScore: number;
+  passed: boolean;
+};
+
+export function scoreExam(
+  exam: ExamId,
+  totalQuestions: number,
+  correct: number
+): ExamScore {
+  const rawPercent =
+    totalQuestions > 0 ? (correct / totalQuestions) * 100 : 0;
+
+  const scaledScore = scaleScore(exam, correct, totalQuestions);
+  const passing = exam === "diversity" ? 480 : 400; // CPSD Essentials vs CPSM/core
+  const passed = scaledScore >= passing;
+
+  return {
+    exam,
+    totalQuestions,
+    correct,
+    rawPercent,
+    scaledScore,
+    passed,
+  };
+}
+
+// Simple linear scaling 100–600, rounded to nearest 10
+export function scaleScore(
+  exam: ExamId,
+  rawCorrect: number,
+  totalQuestions: number
+): number {
+  const min = 100;
+  const max = 600;
+
+  if (totalQuestions <= 0) return min;
+
+  const ratio = rawCorrect / totalQuestions;
+  const scaled = min + ratio * (max - min);
+  let rounded = Math.round(scaled / 10) * 10;
+
+  if (rounded < min) rounded = min;
+  if (rounded > max) rounded = max;
+
+  return rounded;
 }
