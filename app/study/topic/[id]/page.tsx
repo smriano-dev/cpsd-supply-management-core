@@ -1,5 +1,8 @@
 import { Suspense } from "react";
-import { getQuestionsForTopic, getTopicsForExam } from "../../../lib/questions";
+import {
+  getRandomQuestionsForTopic,
+  getTopicsForExam,
+} from "../../../lib/questions";
 import TopicPageClient from "./client";
 
 type Props = {
@@ -14,7 +17,9 @@ export default async function TopicPage({ params, searchParams }: Props) {
 
   const topics = getTopicsForExam(exam);
   const topic = topics.find((t) => t.id === topicId);
-  const questions = getQuestionsForTopic(exam, topicId);
+
+  // Use the new helper here: limit to 50 random questions
+  const questions = getRandomQuestionsForTopic(exam, topicId, 50);
 
   return (
     <Suspense fallback={<div className="min-h-screen bg-slate-950" />}>

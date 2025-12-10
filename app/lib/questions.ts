@@ -303,3 +303,14 @@ export function getQuestionsForTopic(
     (q) => q.exam === exam && q.topicId === topicId
   );
 }
+
+export function getRandomQuestionsForTopic(
+  exam: ExamId,
+  topicId: string,
+  count: number = 50
+): Question[] {
+  const all = getQuestionsForTopic(exam, topicId);
+  // Simple shuffle
+  const shuffled = [...all].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, Math.min(count, all.length));
+}
