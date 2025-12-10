@@ -11274,7 +11274,7 @@ export const rawQuestions: RawQuestion[] = [
     explanation:
       "Standardisation of effective practices magnifies impact across the function.",
   },
-
+  
   {
     "id": "SM-500",
     "module": "supply-management",

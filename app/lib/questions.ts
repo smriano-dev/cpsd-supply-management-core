@@ -275,6 +275,15 @@ export const questions: Question[] = typedRawQuestions.map((raw) => {
     explanation: raw.explanation,
   };
 });
+ 
+// Keep backwards compatibility: provide coreQuestions and diversityQuestions
+export const coreQuestions: Question[] = questions.filter(
+  (q) => q.exam === "core"
+);
+
+export const diversityQuestions: Question[] = questions.filter(
+  (q) => q.exam === "diversity"
+);
 
 // ===========================
 // HELPER FUNCTIONS
